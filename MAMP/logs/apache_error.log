@@ -1,0 +1,157 @@
+[Mon Mar 25 20:34:28 2019] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Mar 25 20:34:29 2019] [warn] pid file C:/MAMP/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 25 20:34:29 2019] [notice] Digest: generating secret for digest authentication ...
+[Mon Mar 25 20:34:29 2019] [notice] Digest: done
+[Mon Mar 25 20:34:32 2019] [notice] Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2h mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.2.10 mod_perl/2.0.8 Perl/v5.16.3 configured -- resuming normal operations
+[Mon Mar 25 20:34:32 2019] [notice] Server built: May  6 2016 10:19:53
+[Mon Mar 25 20:34:32 2019] [notice] Parent: Created child process 3972
+[Mon Mar 25 20:34:32 2019] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Mar 25 20:34:33 2019] [notice] Digest: generating secret for digest authentication ...
+[Mon Mar 25 20:34:33 2019] [notice] Digest: done
+[Mon Mar 25 20:34:34 2019] [notice] Child 3972: Child process is running
+[Mon Mar 25 20:34:36 2019] [notice] Child 3972: Acquired the start mutex.
+[Mon Mar 25 20:34:36 2019] [notice] Child 3972: Starting 64 worker threads.
+[Mon Mar 25 20:34:36 2019] [notice] Child 3972: Starting thread to listen on port 80.
+[Mon Mar 25 20:34:53 2019] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/docs-assets, referer: http://localhost/MAMP/
+[Mon Mar 25 20:35:21 2019] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/
+[Sat Mar 30 19:46:20 2019] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Mar 30 19:46:21 2019] [warn] pid file C:/MAMP/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 30 19:46:21 2019] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 30 19:46:21 2019] [notice] Digest: done
+[Sat Mar 30 19:46:23 2019] [notice] Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2h mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.2.10 mod_perl/2.0.8 Perl/v5.16.3 configured -- resuming normal operations
+[Sat Mar 30 19:46:23 2019] [notice] Server built: May  6 2016 10:19:53
+[Sat Mar 30 19:46:23 2019] [notice] Parent: Created child process 11884
+[Sat Mar 30 19:46:24 2019] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Mar 30 19:46:25 2019] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 30 19:46:25 2019] [notice] Digest: done
+[Sat Mar 30 19:46:26 2019] [notice] Child 11884: Child process is running
+[Sat Mar 30 19:46:28 2019] [notice] Child 11884: Acquired the start mutex.
+[Sat Mar 30 19:46:28 2019] [notice] Child 11884: Starting 64 worker threads.
+[Sat Mar 30 19:46:28 2019] [notice] Child 11884: Starting thread to listen on port 80.
+[Sat Mar 30 19:47:36 2019] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/docs-assets, referer: http://localhost/MAMP/
+[Sun Mar 31 21:33:20 2019] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Mar 31 21:33:21 2019] [warn] pid file C:/MAMP/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Mar 31 21:33:21 2019] [notice] Digest: generating secret for digest authentication ...
+[Sun Mar 31 21:33:21 2019] [notice] Digest: done
+[Sun Mar 31 21:33:23 2019] [notice] Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2h mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.2.10 mod_perl/2.0.8 Perl/v5.16.3 configured -- resuming normal operations
+[Sun Mar 31 21:33:23 2019] [notice] Server built: May  6 2016 10:19:53
+[Sun Mar 31 21:33:23 2019] [notice] Parent: Created child process 19532
+[Sun Mar 31 21:33:24 2019] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Mar 31 21:33:25 2019] [notice] Digest: generating secret for digest authentication ...
+[Sun Mar 31 21:33:25 2019] [notice] Digest: done
+[Sun Mar 31 21:33:26 2019] [notice] Child 19532: Child process is running
+[Sun Mar 31 21:33:29 2019] [notice] Child 19532: Acquired the start mutex.
+[Sun Mar 31 21:33:29 2019] [notice] Child 19532: Starting 64 worker threads.
+[Sun Mar 31 21:33:29 2019] [notice] Child 19532: Starting thread to listen on port 80.
+[Wed Apr 03 12:10:37 2019] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Apr 03 12:10:38 2019] [warn] pid file C:/MAMP/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 03 12:10:38 2019] [notice] Digest: generating secret for digest authentication ...
+[Wed Apr 03 12:10:38 2019] [notice] Digest: done
+[Wed Apr 03 12:10:40 2019] [notice] Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2h mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.2.10 mod_perl/2.0.8 Perl/v5.16.3 configured -- resuming normal operations
+[Wed Apr 03 12:10:40 2019] [notice] Server built: May  6 2016 10:19:53
+[Wed Apr 03 12:10:40 2019] [notice] Parent: Created child process 13476
+[Wed Apr 03 12:10:40 2019] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Apr 03 12:10:41 2019] [notice] Digest: generating secret for digest authentication ...
+[Wed Apr 03 12:10:41 2019] [notice] Digest: done
+[Wed Apr 03 12:10:42 2019] [notice] Child 13476: Child process is running
+[Wed Apr 03 12:10:42 2019] [notice] Child 13476: Acquired the start mutex.
+[Wed Apr 03 12:10:42 2019] [notice] Child 13476: Starting 64 worker threads.
+[Wed Apr 03 12:10:42 2019] [notice] Child 13476: Starting thread to listen on port 80.
+[Wed Apr 03 13:11:40 2019] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Apr 03 13:11:41 2019] [warn] pid file C:/MAMP/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 03 13:11:41 2019] [notice] Digest: generating secret for digest authentication ...
+[Wed Apr 03 13:11:41 2019] [notice] Digest: done
+[Wed Apr 03 13:11:42 2019] [notice] Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2h mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.2.10 mod_perl/2.0.8 Perl/v5.16.3 configured -- resuming normal operations
+[Wed Apr 03 13:11:42 2019] [notice] Server built: May  6 2016 10:19:53
+[Wed Apr 03 13:11:42 2019] [notice] Parent: Created child process 12388
+[Wed Apr 03 13:11:42 2019] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Apr 03 13:11:43 2019] [notice] Digest: generating secret for digest authentication ...
+[Wed Apr 03 13:11:43 2019] [notice] Digest: done
+[Wed Apr 03 13:11:44 2019] [notice] Child 12388: Child process is running
+[Wed Apr 03 13:11:44 2019] [notice] Child 12388: Acquired the start mutex.
+[Wed Apr 03 13:11:44 2019] [notice] Child 12388: Starting 64 worker threads.
+[Wed Apr 03 13:11:44 2019] [notice] Child 12388: Starting thread to listen on port 80.
+[Wed Apr 03 13:40:40 2019] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Apr 03 13:40:41 2019] [warn] pid file C:/MAMP/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 03 13:40:41 2019] [notice] Digest: generating secret for digest authentication ...
+[Wed Apr 03 13:40:41 2019] [notice] Digest: done
+[Wed Apr 03 13:40:42 2019] [notice] Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2h mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.2.10 mod_perl/2.0.8 Perl/v5.16.3 configured -- resuming normal operations
+[Wed Apr 03 13:40:42 2019] [notice] Server built: May  6 2016 10:19:53
+[Wed Apr 03 13:40:42 2019] [notice] Parent: Created child process 844
+[Wed Apr 03 13:40:42 2019] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Apr 03 13:40:43 2019] [notice] Digest: generating secret for digest authentication ...
+[Wed Apr 03 13:40:43 2019] [notice] Digest: done
+[Wed Apr 03 13:40:44 2019] [notice] Child 844: Child process is running
+[Wed Apr 03 13:40:44 2019] [notice] Child 844: Acquired the start mutex.
+[Wed Apr 03 13:40:44 2019] [notice] Child 844: Starting 64 worker threads.
+[Wed Apr 03 13:40:44 2019] [notice] Child 844: Starting thread to listen on port 80.
+[Thu Apr 04 13:19:24 2019] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Apr 04 13:19:25 2019] [warn] pid file C:/MAMP/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 04 13:19:25 2019] [notice] Digest: generating secret for digest authentication ...
+[Thu Apr 04 13:19:25 2019] [notice] Digest: done
+[Thu Apr 04 13:19:27 2019] [notice] Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2h mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.2.10 mod_perl/2.0.8 Perl/v5.16.3 configured -- resuming normal operations
+[Thu Apr 04 13:19:27 2019] [notice] Server built: May  6 2016 10:19:53
+[Thu Apr 04 13:19:27 2019] [notice] Parent: Created child process 15080
+[Thu Apr 04 13:19:28 2019] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Apr 04 13:19:29 2019] [notice] Digest: generating secret for digest authentication ...
+[Thu Apr 04 13:19:29 2019] [notice] Digest: done
+[Thu Apr 04 13:19:30 2019] [notice] Child 15080: Child process is running
+[Thu Apr 04 13:19:32 2019] [notice] Child 15080: Acquired the start mutex.
+[Thu Apr 04 13:19:32 2019] [notice] Child 15080: Starting 64 worker threads.
+[Thu Apr 04 13:19:32 2019] [notice] Child 15080: Starting thread to listen on port 80.
+[Fri Apr 05 12:48:47 2019] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Apr 05 12:48:48 2019] [warn] pid file C:/MAMP/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Apr 05 12:48:48 2019] [notice] Digest: generating secret for digest authentication ...
+[Fri Apr 05 12:48:48 2019] [notice] Digest: done
+[Fri Apr 05 12:48:50 2019] [notice] Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2h mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.2.10 mod_perl/2.0.8 Perl/v5.16.3 configured -- resuming normal operations
+[Fri Apr 05 12:48:50 2019] [notice] Server built: May  6 2016 10:19:53
+[Fri Apr 05 12:48:50 2019] [notice] Parent: Created child process 16732
+[Fri Apr 05 12:48:50 2019] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Apr 05 12:48:51 2019] [notice] Digest: generating secret for digest authentication ...
+[Fri Apr 05 12:48:51 2019] [notice] Digest: done
+[Fri Apr 05 12:48:52 2019] [notice] Child 16732: Child process is running
+[Fri Apr 05 12:48:53 2019] [notice] Child 16732: Acquired the start mutex.
+[Fri Apr 05 12:48:53 2019] [notice] Child 16732: Starting 64 worker threads.
+[Fri Apr 05 12:48:53 2019] [notice] Child 16732: Starting thread to listen on port 80.
+[Sat Apr 06 11:43:08 2019] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Apr 06 11:43:09 2019] [warn] pid file C:/MAMP/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Apr 06 11:43:09 2019] [notice] Digest: generating secret for digest authentication ...
+[Sat Apr 06 11:43:09 2019] [notice] Digest: done
+[Sat Apr 06 11:43:13 2019] [notice] Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2h mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.2.10 mod_perl/2.0.8 Perl/v5.16.3 configured -- resuming normal operations
+[Sat Apr 06 11:43:13 2019] [notice] Server built: May  6 2016 10:19:53
+[Sat Apr 06 11:43:13 2019] [notice] Parent: Created child process 16208
+[Sat Apr 06 11:43:13 2019] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Apr 06 11:43:14 2019] [notice] Digest: generating secret for digest authentication ...
+[Sat Apr 06 11:43:14 2019] [notice] Digest: done
+[Sat Apr 06 11:43:15 2019] [notice] Child 16208: Child process is running
+[Sat Apr 06 11:43:15 2019] [notice] Child 16208: Acquired the start mutex.
+[Sat Apr 06 11:43:15 2019] [notice] Child 16208: Starting 64 worker threads.
+[Sat Apr 06 11:43:15 2019] [notice] Child 16208: Starting thread to listen on port 80.
+[Sun Apr 07 17:30:53 2019] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Apr 07 17:30:54 2019] [warn] pid file C:/MAMP/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Apr 07 17:30:54 2019] [notice] Digest: generating secret for digest authentication ...
+[Sun Apr 07 17:30:54 2019] [notice] Digest: done
+[Sun Apr 07 17:30:57 2019] [notice] Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2h mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.2.10 mod_perl/2.0.8 Perl/v5.16.3 configured -- resuming normal operations
+[Sun Apr 07 17:30:57 2019] [notice] Server built: May  6 2016 10:19:53
+[Sun Apr 07 17:30:57 2019] [notice] Parent: Created child process 9100
+[Sun Apr 07 17:30:58 2019] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Apr 07 17:30:59 2019] [notice] Digest: generating secret for digest authentication ...
+[Sun Apr 07 17:30:59 2019] [notice] Digest: done
+[Sun Apr 07 17:31:00 2019] [notice] Child 9100: Child process is running
+[Sun Apr 07 17:31:01 2019] [notice] Child 9100: Acquired the start mutex.
+[Sun Apr 07 17:31:01 2019] [notice] Child 9100: Starting 64 worker threads.
+[Sun Apr 07 17:31:01 2019] [notice] Child 9100: Starting thread to listen on port 80.
+[Sun Apr 07 19:50:35 2019] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Apr 07 19:50:36 2019] [warn] pid file C:/MAMP/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Apr 07 19:50:36 2019] [notice] Digest: generating secret for digest authentication ...
+[Sun Apr 07 19:50:36 2019] [notice] Digest: done
+[Sun Apr 07 19:50:37 2019] [notice] Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2h mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.2.10 mod_perl/2.0.8 Perl/v5.16.3 configured -- resuming normal operations
+[Sun Apr 07 19:50:37 2019] [notice] Server built: May  6 2016 10:19:53
+[Sun Apr 07 19:50:37 2019] [notice] Parent: Created child process 17260
+[Sun Apr 07 19:50:37 2019] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Apr 07 19:50:38 2019] [notice] Digest: generating secret for digest authentication ...
+[Sun Apr 07 19:50:38 2019] [notice] Digest: done
+[Sun Apr 07 19:50:39 2019] [notice] Child 17260: Child process is running
+[Sun Apr 07 19:50:39 2019] [notice] Child 17260: Acquired the start mutex.
+[Sun Apr 07 19:50:39 2019] [notice] Child 17260: Starting 64 worker threads.
+[Sun Apr 07 19:50:39 2019] [notice] Child 17260: Starting thread to listen on port 80.

@@ -1,0 +1,2936 @@
+25-03-2019 20:33:59	<I>: 	ProcessName: MAMP
+
+25-03-2019 20:33:59	<I>: 	Only one instance of MAMP is running.
+
+25-03-2019 20:33:59	<I>: 	Create current user MAMP free folder.
+
+25-03-2019 20:33:59	<I>: 	Create current user MAMP Cloud folder.
+
+25-03-2019 20:33:59	<I>: 	Create current user php execute scripts folder.
+
+25-03-2019 20:33:59	<I>: 	Checking MAMP PRO.
+
+25-03-2019 20:34:15	<I>: 	Done reading app setting.
+
+25-03-2019 20:34:15	<I>: 	Opening MAMP control panel.
+
+25-03-2019 20:34:17	<I>: 	Starting MAMP
+
+25-03-2019 20:34:17	<I>: 	MAMP Build version: 4.1.0.23876
+
+25-03-2019 20:34:17	<I>: 	MAMP x86 release binaries.
+
+25-03-2019 20:34:17	<I>: 	
+
+25-03-2019 20:34:17	<I>: 	Operation System:  Microsoft Windows NT 6.2.9200.0
+
+25-03-2019 20:34:17	<I>: 	ProcessorCount:  8
+
+25-03-2019 20:34:17	<I>: 	64Bit OS:  Yes
+
+25-03-2019 20:34:17	<I>: 	Region:  India
+
+25-03-2019 20:34:17	<I>: 	Region DisplayName:  India
+
+25-03-2019 20:34:17	<I>: 	TwoLetterISORegionName:  IN
+
+25-03-2019 20:34:17	<I>: 	ThreeLetterISORegionName:  IND
+
+25-03-2019 20:34:17	<I>: 	System Page Size:  4096
+
+25-03-2019 20:34:17	<I>: 	SystemDirectory:  C:\WINDOWS\system32
+
+25-03-2019 20:34:17	<I>: 	UserDomainName:  LAPTOP-DBJ59LPV
+
+25-03-2019 20:34:17	<I>: 	UserName: Varun
+
+25-03-2019 20:34:17	<I>: 		 Drive: C:\
+
+25-03-2019 20:34:17	<I>: 			 VolumeLabel: Windows
+
+25-03-2019 20:34:17	<I>: 			 DriveType: Fixed
+
+25-03-2019 20:34:17	<I>: 			 DriveFormat: NTFS
+
+25-03-2019 20:34:17	<I>: 			 TotalSize: 247827787776
+
+25-03-2019 20:34:17	<I>: 			 AvailableFreeSpace: 89812926464
+
+25-03-2019 20:34:17	<I>: 		 Drive: D:\
+
+25-03-2019 20:34:17	<I>: 			 VolumeLabel: RECOVERY
+
+25-03-2019 20:34:17	<I>: 			 DriveType: Fixed
+
+25-03-2019 20:34:17	<I>: 			 DriveFormat: NTFS
+
+25-03-2019 20:34:17	<I>: 			 TotalSize: 14543745024
+
+25-03-2019 20:34:17	<I>: 			 AvailableFreeSpace: 1517465600
+
+25-03-2019 20:34:17	<I>: 		 Drive: F:\
+
+25-03-2019 20:34:17	<I>: 			 VolumeLabel: Songssssss
+
+25-03-2019 20:34:17	<I>: 			 DriveType: Fixed
+
+25-03-2019 20:34:17	<I>: 			 DriveFormat: NTFS
+
+25-03-2019 20:34:17	<I>: 			 TotalSize: 245774675968
+
+25-03-2019 20:34:17	<I>: 			 AvailableFreeSpace: 87435415552
+
+25-03-2019 20:34:17	<I>: 		 Drive: G:\
+
+25-03-2019 20:34:17	<I>: 			 VolumeLabel: Games
+
+25-03-2019 20:34:17	<I>: 			 DriveType: Fixed
+
+25-03-2019 20:34:17	<I>: 			 DriveFormat: NTFS
+
+25-03-2019 20:34:17	<I>: 			 TotalSize: 490732515328
+
+25-03-2019 20:34:17	<I>: 			 AvailableFreeSpace: 372454887424
+
+25-03-2019 20:34:17	<I>: 	
+
+25-03-2019 20:34:18	<I>: 	Checking configuration files variables.
+
+25-03-2019 20:34:18	<I>: 	Base MAMP path is: C:\MAMP\
+
+25-03-2019 20:34:18	<I>: 	For php version there is missing php.ini configuration. Now system needs to reconfigure itself.
+
+25-03-2019 20:34:18	<I>: 	Server root is: 'C:\MAMP\bin\apache'
+
+25-03-2019 20:34:18	<I>: 	Checking if current php version is valid.
+
+25-03-2019 20:34:18	<I>: 	Current PHP Version does not exist: php7.0.9
+
+25-03-2019 20:34:18	<I>: 	System state changed. MAMP needs to reconfigure.
+
+25-03-2019 20:34:20	<<I>>: 	Set php version to current php max version:php7.2.10
+
+25-03-2019 20:34:20	<I>: 	Initilizing UI Settings from conf files.
+
+25-03-2019 20:34:20	<I>: 	Apache port for MAMP:80
+
+25-03-2019 20:34:20	<I>: 	MySQL port for MAMP:3306
+
+25-03-2019 20:34:20	<I>: 	Nginx port for MAMP from configuration file:80
+
+25-03-2019 20:34:20	<I>: 	Initialize cloud option active.
+
+25-03-2019 20:34:20	<I>: 	Initialize cloud database.
+
+25-03-2019 20:34:20	<I>: 	Initialize cloud IsCloudEncrypted.
+
+25-03-2019 20:34:20	<I>: 	Initialize cloud enc key.
+
+25-03-2019 20:34:20	<I>: 	Initialize cloud IsCloudKeyOnDesktop.
+
+25-03-2019 20:34:20	<I>: 	Initialize MyWebLink.
+
+25-03-2019 20:34:21	<I>: 	Initialize CloudFileRev.
+
+25-03-2019 20:34:21	<I>: 	webServer port is: 80
+
+25-03-2019 20:34:21	<I>: 	Doc root:C:\MAMP\htdocs
+
+25-03-2019 20:34:21	<I>: 	Apache port:80
+
+25-03-2019 20:34:21	<I>: 	Mysql port is:3306
+
+25-03-2019 20:34:21	<I>: 	Finished Initilizing UI Settings.
+
+25-03-2019 20:34:21	<I>: 	MySQL bin version: 5.7.24.0
+
+25-03-2019 20:34:21	<I>: 	Checking file access rights:LAPTOP-DBJ59LPV\Varun
+
+25-03-2019 20:34:21	<I>: 	MAMP detected that it needs to set file access rights for at least one file.
+
+25-03-2019 20:34:21	<I>: 	Setting access rights:C:\MAMP\logs
+
+25-03-2019 20:34:21	<E>: 	Could not set access rights on folder: C:\MAMP\logs
+
+25-03-2019 20:34:21	<I>: 	Checking ports.
+
+25-03-2019 20:34:21	<I>: 	Start when MAMP start check.
+
+25-03-2019 20:34:21	<I>: 	Set data to data context.
+
+25-03-2019 20:34:21	<I>: 	ShowLoadingIndicatorUI
+
+25-03-2019 20:34:21	<I>: 	Starting MAMP server processes.
+
+25-03-2019 20:34:21	<I>: 	Init registry.
+
+25-03-2019 20:34:21	<I>: 	Finished Init registry.
+
+25-03-2019 20:34:21	<I>: 	Finished initilizing UI interface data.
+
+25-03-2019 20:34:21	<I>: 	Enabled Preferences button.
+
+25-03-2019 20:34:21	<I>: 	Trying to start logging events for Windows events generated by MAMP PRO servers.
+
+25-03-2019 20:34:21	<I>: 	Started logging events form Windows Application events generated  by MAMP PRO servers.
+
+25-03-2019 20:34:21	<I>: 	Starting checking VC rutime versions.
+
+25-03-2019 20:34:21	<I>: 	Finished main app initialization.
+
+25-03-2019 20:34:21	<I>: 	WebServer or mysql are not active, checking ports.
+
+25-03-2019 20:34:21	<I>: 	Ports ok.
+
+25-03-2019 20:34:21	<I>: 	Starting all processes.
+
+25-03-2019 20:34:21	<I>: 	Downloading banner metadata from : http://apps.mamp.info/Win/MAMP/banner/4.1/banner.json
+
+25-03-2019 20:34:23	<I>: 	Executed checking VC versions was success.
+
+25-03-2019 20:34:23	<I>: 	VC2008 runtime:True
+
+25-03-2019 20:34:23	<I>: 	VC2010 runtime:True
+
+25-03-2019 20:34:23	<I>: 	VC2012 runtime:True
+
+25-03-2019 20:34:23	<I>: 	VC2015 runtime:True
+
+25-03-2019 20:34:23	<I>: 	VC runtimes tests were ok.
+
+25-03-2019 20:34:24	<I>: 	Downloading image banner.
+
+25-03-2019 20:34:24	<I>: 	Image banner url:https://apps.mamp.info/Win/MAMP/banner/4.0/bannerCurrent_en.png
+
+25-03-2019 20:34:25	<I>: 	Decoding image from byte array.
+
+25-03-2019 20:34:32	<I>: 	Finished starting all processes.
+
+25-03-2019 20:34:37	<I>: 	Cheking version with: C:/MAMP/db/mysql/dbversion.txt
+
+25-03-2019 20:34:37	<I>: 	Current MySQL version is: 5.7.24
+
+25-03-2019 20:34:37	<I>: 	Cheking version with: C:/MAMP/db/mysql/dbversion.txt
+
+25-03-2019 20:34:37	<I>: 	Current MySQL version is: 5.7.24
+
+25-03-2019 20:34:37	<I>: 	Cheking version with: C:/MAMP/db/mysql/dbversion.txt
+
+25-03-2019 20:34:37	<I>: 	Current MySQL version is: 5.7.24
+
+25-03-2019 20:34:37	<I>: 	Cheking version with: C:/MAMP/db/mysql/dbversion.txt
+
+25-03-2019 20:34:37	<I>: 	Current MySQL version is: 5.7.24
+
+25-03-2019 20:34:37	<I>: 	Cheking version with: C:/MAMP/db/mysql/dbversion.txt
+
+25-03-2019 20:34:37	<I>: 	Current MySQL version is: 5.7.24
+
+25-03-2019 20:34:37	<I>: 	Cheking version with: C:/MAMP/db/mysql/dbversion.txt
+
+25-03-2019 20:34:37	<I>: 	Current MySQL version is: 5.7.24
+
+25-03-2019 20:34:37	<I>: 	Cheking version with: C:/MAMP/db/mysql/dbversion.txt
+
+25-03-2019 20:34:37	<I>: 	Current MySQL version is: 5.7.24
+
+25-03-2019 20:34:37	<I>: 	Cheking version with: C:/MAMP/db/mysql/dbversion.txt
+
+25-03-2019 20:34:37	<I>: 	Current MySQL version is: 5.7.24
+
+25-03-2019 20:34:37	<I>: 	Cheking version with: C:/MAMP/db/mysql/dbversion.txt
+
+25-03-2019 20:34:37	<I>: 	Current MySQL version is: 5.7.24
+
+25-03-2019 20:34:37	<I>: 	Cheking version with: C:/MAMP/db/mysql/dbversion.txt
+
+25-03-2019 20:34:37	<I>: 	Current MySQL version is: 5.7.24
+
+25-03-2019 20:34:37	<I>: 	Cheking version with: C:/MAMP/db/mysql/dbversion.txt
+
+25-03-2019 20:34:37	<I>: 	Current MySQL version is: 5.7.24
+
+25-03-2019 20:34:37	<I>: 	Cheking version with: C:/MAMP/db/mysql/dbversion.txt
+
+25-03-2019 20:34:37	<I>: 	Current MySQL version is: 5.7.24
+
+25-03-2019 20:34:40	<I>: 	First check when MySQL password is updated from empty to default was success.
+
+25-03-2019 20:42:02	<F>: 	Closing MAMP application.
+
+30-03-2019 19:45:56	<I>: 	ProcessName: MAMP
+
+30-03-2019 19:45:57	<I>: 	Only one instance of MAMP is running.
+
+30-03-2019 19:45:57	<I>: 	Checking MAMP PRO.
+
+30-03-2019 19:46:12	<I>: 	Done reading app setting.
+
+30-03-2019 19:46:12	<I>: 	Opening MAMP control panel.
+
+30-03-2019 19:46:13	<I>: 	Starting MAMP
+
+30-03-2019 19:46:13	<I>: 	MAMP Build version: 4.1.0.23876
+
+30-03-2019 19:46:13	<I>: 	MAMP x86 release binaries.
+
+30-03-2019 19:46:13	<I>: 	
+
+30-03-2019 19:46:13	<I>: 	Operation System:  Microsoft Windows NT 6.2.9200.0
+
+30-03-2019 19:46:13	<I>: 	ProcessorCount:  8
+
+30-03-2019 19:46:13	<I>: 	64Bit OS:  Yes
+
+30-03-2019 19:46:13	<I>: 	Region:  India
+
+30-03-2019 19:46:13	<I>: 	Region DisplayName:  India
+
+30-03-2019 19:46:13	<I>: 	TwoLetterISORegionName:  IN
+
+30-03-2019 19:46:13	<I>: 	ThreeLetterISORegionName:  IND
+
+30-03-2019 19:46:13	<I>: 	System Page Size:  4096
+
+30-03-2019 19:46:13	<I>: 	SystemDirectory:  C:\WINDOWS\system32
+
+30-03-2019 19:46:13	<I>: 	UserDomainName:  LAPTOP-DBJ59LPV
+
+30-03-2019 19:46:13	<I>: 	UserName: Varun
+
+30-03-2019 19:46:13	<I>: 		 Drive: C:\
+
+30-03-2019 19:46:13	<I>: 			 VolumeLabel: Windows
+
+30-03-2019 19:46:13	<I>: 			 DriveType: Fixed
+
+30-03-2019 19:46:13	<I>: 			 DriveFormat: NTFS
+
+30-03-2019 19:46:13	<I>: 			 TotalSize: 247827787776
+
+30-03-2019 19:46:13	<I>: 			 AvailableFreeSpace: 94480957440
+
+30-03-2019 19:46:13	<I>: 		 Drive: D:\
+
+30-03-2019 19:46:13	<I>: 			 VolumeLabel: RECOVERY
+
+30-03-2019 19:46:13	<I>: 			 DriveType: Fixed
+
+30-03-2019 19:46:13	<I>: 			 DriveFormat: NTFS
+
+30-03-2019 19:46:13	<I>: 			 TotalSize: 14543745024
+
+30-03-2019 19:46:13	<I>: 			 AvailableFreeSpace: 1517465600
+
+30-03-2019 19:46:13	<I>: 		 Drive: F:\
+
+30-03-2019 19:46:13	<I>: 			 VolumeLabel: Songssssss
+
+30-03-2019 19:46:13	<I>: 			 DriveType: Fixed
+
+30-03-2019 19:46:13	<I>: 			 DriveFormat: NTFS
+
+30-03-2019 19:46:13	<I>: 			 TotalSize: 245774675968
+
+30-03-2019 19:46:13	<I>: 			 AvailableFreeSpace: 67473735680
+
+30-03-2019 19:46:13	<I>: 		 Drive: G:\
+
+30-03-2019 19:46:13	<I>: 			 VolumeLabel: Games
+
+30-03-2019 19:46:13	<I>: 			 DriveType: Fixed
+
+30-03-2019 19:46:13	<I>: 			 DriveFormat: NTFS
+
+30-03-2019 19:46:13	<I>: 			 TotalSize: 490732515328
+
+30-03-2019 19:46:13	<I>: 			 AvailableFreeSpace: 345505263616
+
+30-03-2019 19:46:13	<I>: 	
+
+30-03-2019 19:46:14	<I>: 	Checking configuration files variables.
+
+30-03-2019 19:46:14	<I>: 	Base MAMP path is: C:\MAMP\
+
+30-03-2019 19:46:14	<I>: 	Server root is: 'C:\MAMP\bin\apache'
+
+30-03-2019 19:46:14	<I>: 	Checking if current php version is valid.
+
+30-03-2019 19:46:14	<I>: 	Now checking if current PHP Version is max or min php version:php7.2.10
+
+30-03-2019 19:46:14	<I>: 	PHP Min Version is:php7.1.20
+
+30-03-2019 19:46:14	<I>: 	PHP Max Version is:php7.2.10
+
+30-03-2019 19:46:14	<I>: 	Initilizing UI Settings from conf files.
+
+30-03-2019 19:46:14	<I>: 	Apache port for MAMP:80
+
+30-03-2019 19:46:14	<I>: 	MySQL port for MAMP:3306
+
+30-03-2019 19:46:14	<I>: 	Nginx port for MAMP from configuration file:80
+
+30-03-2019 19:46:14	<I>: 	Initialize cloud option active.
+
+30-03-2019 19:46:14	<I>: 	Initialize cloud database.
+
+30-03-2019 19:46:14	<I>: 	Initialize cloud IsCloudEncrypted.
+
+30-03-2019 19:46:14	<I>: 	Initialize cloud enc key.
+
+30-03-2019 19:46:14	<I>: 	Initialize cloud IsCloudKeyOnDesktop.
+
+30-03-2019 19:46:14	<I>: 	Initialize MyWebLink.
+
+30-03-2019 19:46:15	<I>: 	Initialize CloudFileRev.
+
+30-03-2019 19:46:15	<I>: 	webServer port is: 80
+
+30-03-2019 19:46:15	<I>: 	Doc root:C:\MAMP\htdocs
+
+30-03-2019 19:46:15	<I>: 	Apache port:80
+
+30-03-2019 19:46:15	<I>: 	Mysql port is:3306
+
+30-03-2019 19:46:15	<I>: 	Finished Initilizing UI Settings.
+
+30-03-2019 19:46:15	<I>: 	MySQL bin version: 5.7.24.0
+
+30-03-2019 19:46:15	<I>: 	Checking file access rights:LAPTOP-DBJ59LPV\Varun
+
+30-03-2019 19:46:15	<I>: 	MAMP detected that it needs to set file access rights for at least one file.
+
+30-03-2019 19:46:15	<I>: 	Setting access rights:C:\MAMP\logs
+
+30-03-2019 19:46:15	<E>: 	Could not set access rights on folder: C:\MAMP\logs
+
+30-03-2019 19:46:15	<I>: 	Checking ports.
+
+30-03-2019 19:46:15	<I>: 	Start when MAMP start check.
+
+30-03-2019 19:46:15	<I>: 	Set data to data context.
+
+30-03-2019 19:46:15	<I>: 	ShowLoadingIndicatorUI
+
+30-03-2019 19:46:15	<I>: 	Starting MAMP server processes.
+
+30-03-2019 19:46:15	<I>: 	Init registry.
+
+30-03-2019 19:46:15	<I>: 	Finished Init registry.
+
+30-03-2019 19:46:15	<I>: 	Finished initilizing UI interface data.
+
+30-03-2019 19:46:15	<I>: 	Enabled Preferences button.
+
+30-03-2019 19:46:15	<I>: 	Trying to start logging events for Windows events generated by MAMP PRO servers.
+
+30-03-2019 19:46:15	<I>: 	Started logging events form Windows Application events generated  by MAMP PRO servers.
+
+30-03-2019 19:46:15	<I>: 	Starting checking VC rutime versions.
+
+30-03-2019 19:46:15	<I>: 	Finished main app initialization.
+
+30-03-2019 19:46:15	<I>: 	WebServer or mysql are not active, checking ports.
+
+30-03-2019 19:46:15	<I>: 	Downloading banner metadata from : http://apps.mamp.info/Win/MAMP/banner/4.1/banner.json
+
+30-03-2019 19:46:15	<I>: 	Ports ok.
+
+30-03-2019 19:46:15	<I>: 	Starting all processes.
+
+30-03-2019 19:46:17	<I>: 	Downloading image banner.
+
+30-03-2019 19:46:17	<I>: 	Image banner url:https://apps.mamp.info/Win/MAMP/banner/4.0/bannerCurrent_en.png
+
+30-03-2019 19:46:18	<I>: 	Decoding image from byte array.
+
+30-03-2019 19:46:18	<I>: 	VC runtimes tests were ok.
+
+30-03-2019 19:46:24	<I>: 	Finished starting all processes.
+
+30-03-2019 19:46:28	<I>: 	Cheking version with: C:/MAMP/db/mysql/dbversion.txt
+
+30-03-2019 19:46:28	<I>: 	Current MySQL version is: 5.7.24
+
+30-03-2019 19:46:28	<I>: 	Cheking version with: C:/MAMP/db/mysql/dbversion.txt
+
+30-03-2019 19:46:28	<I>: 	Current MySQL version is: 5.7.24
+
+30-03-2019 19:46:28	<I>: 	Cheking version with: C:/MAMP/db/mysql/dbversion.txt
+
+30-03-2019 19:46:28	<I>: 	Current MySQL version is: 5.7.24
+
+30-03-2019 19:46:28	<I>: 	Cheking version with: C:/MAMP/db/mysql/dbversion.txt
+
+30-03-2019 19:46:28	<I>: 	Current MySQL version is: 5.7.24
+
+30-03-2019 19:46:28	<I>: 	Cheking version with: C:/MAMP/db/mysql/dbversion.txt
+
+30-03-2019 19:46:28	<I>: 	Current MySQL version is: 5.7.24
+
+30-03-2019 19:46:28	<I>: 	Cheking version with: C:/MAMP/db/mysql/dbversion.txt
+
+30-03-2019 19:46:28	<I>: 	Current MySQL version is: 5.7.24
+
+30-03-2019 19:46:28	<I>: 	Cheking version with: C:/MAMP/db/mysql/dbversion.txt
+
+30-03-2019 19:46:28	<I>: 	Current MySQL version is: 5.7.24
+
+30-03-2019 19:46:28	<I>: 	Cheking version with: C:/MAMP/db/mysql/dbversion.txt
+
+30-03-2019 19:46:28	<I>: 	Current MySQL version is: 5.7.24
+
+30-03-2019 19:46:28	<I>: 	Cheking version with: C:/MAMP/db/mysql/dbversion.txt
+
+30-03-2019 19:46:28	<I>: 	Current MySQL version is: 5.7.24
+
+30-03-2019 19:46:28	<I>: 	Cheking version with: C:/MAMP/db/mysql/dbversion.txt
+
+30-03-2019 19:46:28	<I>: 	Current MySQL version is: 5.7.24
+
+30-03-2019 19:46:28	<I>: 	Cheking version with: C:/MAMP/db/mysql/dbversion.txt
+
+30-03-2019 19:46:28	<I>: 	Current MySQL version is: 5.7.24
+
+30-03-2019 19:46:28	<I>: 	Cheking version with: C:/MAMP/db/mysql/dbversion.txt
+
+30-03-2019 19:46:28	<I>: 	Current MySQL version is: 5.7.24
+
+30-03-2019 19:46:30	<I>: 	First check when MySQL password is updated from empty to default was success.
+
+30-03-2019 19:56:54	<F>: 	Closing MAMP application.
+
+31-03-2019 21:32:54	<I>: 	ProcessName: MAMP
+
+31-03-2019 21:32:54	<I>: 	Only one instance of MAMP is running.
+
+31-03-2019 21:32:54	<I>: 	Checking MAMP PRO.
+
+31-03-2019 21:33:10	<I>: 	Done reading app setting.
+
+31-03-2019 21:33:10	<I>: 	Opening MAMP control panel.
+
+31-03-2019 21:33:11	<I>: 	Starting MAMP
+
+31-03-2019 21:33:11	<I>: 	MAMP Build version: 4.1.0.23876
+
+31-03-2019 21:33:11	<I>: 	MAMP x86 release binaries.
+
+31-03-2019 21:33:11	<I>: 	
+
+31-03-2019 21:33:11	<I>: 	Operation System:  Microsoft Windows NT 6.2.9200.0
+
+31-03-2019 21:33:11	<I>: 	ProcessorCount:  8
+
+31-03-2019 21:33:11	<I>: 	64Bit OS:  Yes
+
+31-03-2019 21:33:11	<I>: 	Region:  India
+
+31-03-2019 21:33:11	<I>: 	Region DisplayName:  India
+
+31-03-2019 21:33:11	<I>: 	TwoLetterISORegionName:  IN
+
+31-03-2019 21:33:11	<I>: 	ThreeLetterISORegionName:  IND
+
+31-03-2019 21:33:11	<I>: 	System Page Size:  4096
+
+31-03-2019 21:33:11	<I>: 	SystemDirectory:  C:\WINDOWS\system32
+
+31-03-2019 21:33:11	<I>: 	UserDomainName:  LAPTOP-DBJ59LPV
+
+31-03-2019 21:33:11	<I>: 	UserName: Varun
+
+31-03-2019 21:33:11	<I>: 		 Drive: C:\
+
+31-03-2019 21:33:11	<I>: 			 VolumeLabel: Windows
+
+31-03-2019 21:33:11	<I>: 			 DriveType: Fixed
+
+31-03-2019 21:33:11	<I>: 			 DriveFormat: NTFS
+
+31-03-2019 21:33:11	<I>: 			 TotalSize: 247827787776
+
+31-03-2019 21:33:11	<I>: 			 AvailableFreeSpace: 97064771584
+
+31-03-2019 21:33:11	<I>: 		 Drive: D:\
+
+31-03-2019 21:33:11	<I>: 			 VolumeLabel: RECOVERY
+
+31-03-2019 21:33:11	<I>: 			 DriveType: Fixed
+
+31-03-2019 21:33:11	<I>: 			 DriveFormat: NTFS
+
+31-03-2019 21:33:11	<I>: 			 TotalSize: 14543745024
+
+31-03-2019 21:33:11	<I>: 			 AvailableFreeSpace: 1517465600
+
+31-03-2019 21:33:11	<I>: 		 Drive: F:\
+
+31-03-2019 21:33:11	<I>: 			 VolumeLabel: Songssssss
+
+31-03-2019 21:33:11	<I>: 			 DriveType: Fixed
+
+31-03-2019 21:33:11	<I>: 			 DriveFormat: NTFS
+
+31-03-2019 21:33:11	<I>: 			 TotalSize: 245774675968
+
+31-03-2019 21:33:11	<I>: 			 AvailableFreeSpace: 74012647424
+
+31-03-2019 21:33:11	<I>: 		 Drive: G:\
+
+31-03-2019 21:33:11	<I>: 			 VolumeLabel: Games
+
+31-03-2019 21:33:11	<I>: 			 DriveType: Fixed
+
+31-03-2019 21:33:11	<I>: 			 DriveFormat: NTFS
+
+31-03-2019 21:33:11	<I>: 			 TotalSize: 490732515328
+
+31-03-2019 21:33:11	<I>: 			 AvailableFreeSpace: 319662292992
+
+31-03-2019 21:33:11	<I>: 		 Drive: H:\
+
+31-03-2019 21:33:11	<I>: 			 VolumeLabel: SamDisk
+
+31-03-2019 21:33:11	<I>: 			 DriveType: Removable
+
+31-03-2019 21:33:11	<I>: 			 DriveFormat: exFAT
+
+31-03-2019 21:33:11	<I>: 			 TotalSize: 31253856256
+
+31-03-2019 21:33:11	<I>: 			 AvailableFreeSpace: 2163507200
+
+31-03-2019 21:33:11	<I>: 	
+
+31-03-2019 21:33:12	<I>: 	Checking configuration files variables.
+
+31-03-2019 21:33:12	<I>: 	Base MAMP path is: C:\MAMP\
+
+31-03-2019 21:33:12	<I>: 	Server root is: 'C:\MAMP\bin\apache'
+
+31-03-2019 21:33:12	<I>: 	Checking if current php version is valid.
+
+31-03-2019 21:33:12	<I>: 	Now checking if current PHP Version is max or min php version:php7.2.10
+
+31-03-2019 21:33:12	<I>: 	PHP Min Version is:php7.1.20
+
+31-03-2019 21:33:12	<I>: 	PHP Max Version is:php7.2.10
+
+31-03-2019 21:33:12	<I>: 	Initilizing UI Settings from conf files.
+
+31-03-2019 21:33:12	<I>: 	Apache port for MAMP:80
+
+31-03-2019 21:33:12	<I>: 	MySQL port for MAMP:3306
+
+31-03-2019 21:33:12	<I>: 	Nginx port for MAMP from configuration file:80
+
+31-03-2019 21:33:13	<I>: 	Initialize cloud option active.
+
+31-03-2019 21:33:13	<I>: 	Initialize cloud database.
+
+31-03-2019 21:33:13	<I>: 	Initialize cloud IsCloudEncrypted.
+
+31-03-2019 21:33:13	<I>: 	Initialize cloud enc key.
+
+31-03-2019 21:33:13	<I>: 	Initialize cloud IsCloudKeyOnDesktop.
+
+31-03-2019 21:33:13	<I>: 	Initialize MyWebLink.
+
+31-03-2019 21:33:13	<I>: 	Initialize CloudFileRev.
+
+31-03-2019 21:33:14	<I>: 	webServer port is: 80
+
+31-03-2019 21:33:14	<I>: 	Doc root:C:\MAMP\htdocs
+
+31-03-2019 21:33:14	<I>: 	Apache port:80
+
+31-03-2019 21:33:14	<I>: 	Mysql port is:3306
+
+31-03-2019 21:33:14	<I>: 	Finished Initilizing UI Settings.
+
+31-03-2019 21:33:14	<I>: 	MySQL bin version: 5.7.24.0
+
+31-03-2019 21:33:14	<I>: 	Checking file access rights:LAPTOP-DBJ59LPV\Varun
+
+31-03-2019 21:33:14	<I>: 	MAMP detected that it needs to set file access rights for at least one file.
+
+31-03-2019 21:33:14	<I>: 	Setting access rights:C:\MAMP\logs
+
+31-03-2019 21:33:14	<E>: 	Could not set access rights on folder: C:\MAMP\logs
+
+31-03-2019 21:33:14	<I>: 	Checking ports.
+
+31-03-2019 21:33:14	<I>: 	Start when MAMP start check.
+
+31-03-2019 21:33:14	<I>: 	Set data to data context.
+
+31-03-2019 21:33:14	<I>: 	ShowLoadingIndicatorUI
+
+31-03-2019 21:33:14	<I>: 	Starting MAMP server processes.
+
+31-03-2019 21:33:14	<I>: 	Init registry.
+
+31-03-2019 21:33:14	<I>: 	Finished Init registry.
+
+31-03-2019 21:33:14	<I>: 	Finished initilizing UI interface data.
+
+31-03-2019 21:33:14	<I>: 	Enabled Preferences button.
+
+31-03-2019 21:33:14	<I>: 	Trying to start logging events for Windows events generated by MAMP PRO servers.
+
+31-03-2019 21:33:14	<I>: 	Started logging events form Windows Application events generated  by MAMP PRO servers.
+
+31-03-2019 21:33:14	<I>: 	Starting checking VC rutime versions.
+
+31-03-2019 21:33:14	<I>: 	Finished main app initialization.
+
+31-03-2019 21:33:15	<I>: 	WebServer or mysql are not active, checking ports.
+
+31-03-2019 21:33:15	<I>: 	Ports ok.
+
+31-03-2019 21:33:15	<I>: 	Starting all processes.
+
+31-03-2019 21:33:16	<I>: 	Downloading banner metadata from : http://apps.mamp.info/Win/MAMP/banner/4.1/banner.json
+
+31-03-2019 21:33:16	<I>: 	Executed checking VC versions was success.
+
+31-03-2019 21:33:16	<I>: 	VC2008 runtime:True
+
+31-03-2019 21:33:16	<I>: 	VC2010 runtime:True
+
+31-03-2019 21:33:16	<I>: 	VC2012 runtime:True
+
+31-03-2019 21:33:16	<I>: 	VC2015 runtime:True
+
+31-03-2019 21:33:16	<I>: 	VC runtimes tests were ok.
+
+31-03-2019 21:33:17	<I>: 	Downloading image banner.
+
+31-03-2019 21:33:17	<I>: 	Image banner url:https://apps.mamp.info/Win/MAMP/banner/4.0/bannerCurrent_en.png
+
+31-03-2019 21:33:18	<I>: 	Decoding image from byte array.
+
+31-03-2019 21:33:24	<I>: 	Finished starting all processes.
+
+31-03-2019 22:25:10	<F>: 	Closing MAMP application.
+
+03-04-2019 12:10:14	<I>: 	ProcessName: MAMP
+
+03-04-2019 12:10:14	<I>: 	Only one instance of MAMP is running.
+
+03-04-2019 12:10:14	<I>: 	Checking MAMP PRO.
+
+03-04-2019 12:10:30	<I>: 	Done reading app setting.
+
+03-04-2019 12:10:30	<I>: 	Opening MAMP control panel.
+
+03-04-2019 12:10:31	<I>: 	Starting MAMP
+
+03-04-2019 12:10:31	<I>: 	MAMP Build version: 4.1.0.23876
+
+03-04-2019 12:10:31	<I>: 	MAMP x86 release binaries.
+
+03-04-2019 12:10:31	<I>: 	
+
+03-04-2019 12:10:31	<I>: 	Operation System:  Microsoft Windows NT 6.2.9200.0
+
+03-04-2019 12:10:31	<I>: 	ProcessorCount:  8
+
+03-04-2019 12:10:31	<I>: 	64Bit OS:  Yes
+
+03-04-2019 12:10:31	<I>: 	Region:  India
+
+03-04-2019 12:10:31	<I>: 	Region DisplayName:  India
+
+03-04-2019 12:10:31	<I>: 	TwoLetterISORegionName:  IN
+
+03-04-2019 12:10:31	<I>: 	ThreeLetterISORegionName:  IND
+
+03-04-2019 12:10:31	<I>: 	System Page Size:  4096
+
+03-04-2019 12:10:31	<I>: 	SystemDirectory:  C:\WINDOWS\system32
+
+03-04-2019 12:10:31	<I>: 	UserDomainName:  LAPTOP-DBJ59LPV
+
+03-04-2019 12:10:31	<I>: 	UserName: Varun
+
+03-04-2019 12:10:31	<I>: 		 Drive: C:\
+
+03-04-2019 12:10:31	<I>: 			 VolumeLabel: Windows
+
+03-04-2019 12:10:31	<I>: 			 DriveType: Fixed
+
+03-04-2019 12:10:31	<I>: 			 DriveFormat: NTFS
+
+03-04-2019 12:10:31	<I>: 			 TotalSize: 247827787776
+
+03-04-2019 12:10:31	<I>: 			 AvailableFreeSpace: 95820308480
+
+03-04-2019 12:10:31	<I>: 		 Drive: D:\
+
+03-04-2019 12:10:31	<I>: 			 VolumeLabel: RECOVERY
+
+03-04-2019 12:10:31	<I>: 			 DriveType: Fixed
+
+03-04-2019 12:10:31	<I>: 			 DriveFormat: NTFS
+
+03-04-2019 12:10:31	<I>: 			 TotalSize: 14543745024
+
+03-04-2019 12:10:31	<I>: 			 AvailableFreeSpace: 1517465600
+
+03-04-2019 12:10:31	<I>: 		 Drive: F:\
+
+03-04-2019 12:10:31	<I>: 			 VolumeLabel: Songssssss
+
+03-04-2019 12:10:31	<I>: 			 DriveType: Fixed
+
+03-04-2019 12:10:31	<I>: 			 DriveFormat: NTFS
+
+03-04-2019 12:10:31	<I>: 			 TotalSize: 245774675968
+
+03-04-2019 12:10:31	<I>: 			 AvailableFreeSpace: 79562874880
+
+03-04-2019 12:10:31	<I>: 		 Drive: G:\
+
+03-04-2019 12:10:31	<I>: 			 VolumeLabel: Games
+
+03-04-2019 12:10:31	<I>: 			 DriveType: Fixed
+
+03-04-2019 12:10:31	<I>: 			 DriveFormat: NTFS
+
+03-04-2019 12:10:31	<I>: 			 TotalSize: 490732515328
+
+03-04-2019 12:10:31	<I>: 			 AvailableFreeSpace: 277520162816
+
+03-04-2019 12:10:31	<I>: 	
+
+03-04-2019 12:10:32	<I>: 	Checking configuration files variables.
+
+03-04-2019 12:10:32	<I>: 	Base MAMP path is: C:\MAMP\
+
+03-04-2019 12:10:32	<I>: 	Server root is: 'C:\MAMP\bin\apache'
+
+03-04-2019 12:10:32	<I>: 	Checking if current php version is valid.
+
+03-04-2019 12:10:32	<I>: 	Now checking if current PHP Version is max or min php version:php7.2.10
+
+03-04-2019 12:10:32	<I>: 	PHP Min Version is:php7.1.20
+
+03-04-2019 12:10:32	<I>: 	PHP Max Version is:php7.2.10
+
+03-04-2019 12:10:32	<I>: 	Initilizing UI Settings from conf files.
+
+03-04-2019 12:10:32	<I>: 	Apache port for MAMP:80
+
+03-04-2019 12:10:32	<I>: 	MySQL port for MAMP:3306
+
+03-04-2019 12:10:32	<I>: 	Nginx port for MAMP from configuration file:80
+
+03-04-2019 12:10:33	<I>: 	Initialize cloud option active.
+
+03-04-2019 12:10:33	<I>: 	Initialize cloud database.
+
+03-04-2019 12:10:33	<I>: 	Initialize cloud IsCloudEncrypted.
+
+03-04-2019 12:10:33	<I>: 	Initialize cloud enc key.
+
+03-04-2019 12:10:33	<I>: 	Initialize cloud IsCloudKeyOnDesktop.
+
+03-04-2019 12:10:33	<I>: 	Initialize MyWebLink.
+
+03-04-2019 12:10:34	<I>: 	Initialize CloudFileRev.
+
+03-04-2019 12:10:34	<I>: 	webServer port is: 80
+
+03-04-2019 12:10:34	<I>: 	Doc root:C:\MAMP\htdocs
+
+03-04-2019 12:10:34	<I>: 	Apache port:80
+
+03-04-2019 12:10:34	<I>: 	Mysql port is:3306
+
+03-04-2019 12:10:34	<I>: 	Finished Initilizing UI Settings.
+
+03-04-2019 12:10:34	<I>: 	MySQL bin version: 5.7.24.0
+
+03-04-2019 12:10:34	<I>: 	Checking file access rights:LAPTOP-DBJ59LPV\Varun
+
+03-04-2019 12:10:34	<I>: 	MAMP detected that it needs to set file access rights for at least one file.
+
+03-04-2019 12:10:34	<I>: 	Setting access rights:C:\MAMP\logs
+
+03-04-2019 12:10:34	<E>: 	Could not set access rights on folder: C:\MAMP\logs
+
+03-04-2019 12:10:34	<I>: 	Checking ports.
+
+03-04-2019 12:10:34	<I>: 	Start when MAMP start check.
+
+03-04-2019 12:10:34	<I>: 	Set data to data context.
+
+03-04-2019 12:10:34	<I>: 	ShowLoadingIndicatorUI
+
+03-04-2019 12:10:34	<I>: 	Starting MAMP server processes.
+
+03-04-2019 12:10:34	<I>: 	Init registry.
+
+03-04-2019 12:10:34	<I>: 	Finished Init registry.
+
+03-04-2019 12:10:34	<I>: 	Finished initilizing UI interface data.
+
+03-04-2019 12:10:34	<I>: 	Enabled Preferences button.
+
+03-04-2019 12:10:34	<I>: 	Trying to start logging events for Windows events generated by MAMP PRO servers.
+
+03-04-2019 12:10:34	<I>: 	Started logging events form Windows Application events generated  by MAMP PRO servers.
+
+03-04-2019 12:10:34	<I>: 	Starting checking VC rutime versions.
+
+03-04-2019 12:10:34	<I>: 	Finished main app initialization.
+
+03-04-2019 12:10:34	<I>: 	WebServer or mysql are not active, checking ports.
+
+03-04-2019 12:10:34	<I>: 	Ports ok.
+
+03-04-2019 12:10:34	<I>: 	Starting all processes.
+
+03-04-2019 12:10:34	<I>: 	Downloading banner metadata from : http://apps.mamp.info/Win/MAMP/banner/4.1/banner.json
+
+03-04-2019 12:10:35	<I>: 	Executed checking VC versions was success.
+
+03-04-2019 12:10:35	<I>: 	VC2008 runtime:True
+
+03-04-2019 12:10:35	<I>: 	VC2010 runtime:True
+
+03-04-2019 12:10:35	<I>: 	VC2012 runtime:True
+
+03-04-2019 12:10:35	<I>: 	VC2015 runtime:True
+
+03-04-2019 12:10:35	<I>: 	VC runtimes tests were ok.
+
+03-04-2019 12:10:36	<I>: 	Downloading image banner.
+
+03-04-2019 12:10:36	<I>: 	Image banner url:https://apps.mamp.info/Win/MAMP/banner/4.0/bannerCurrent_en.png
+
+03-04-2019 12:10:38	<I>: 	Decoding image from byte array.
+
+03-04-2019 12:10:40	<I>: 	Finished starting all processes.
+
+03-04-2019 12:11:11	<F>: 	Closing MAMP application.
+
+03-04-2019 12:13:43	<I>: 	ProcessName: MAMP
+
+03-04-2019 12:13:43	<I>: 	Only one instance of MAMP is running.
+
+03-04-2019 12:13:43	<I>: 	Checking MAMP PRO.
+
+03-04-2019 12:13:58	<I>: 	Done reading app setting.
+
+03-04-2019 12:13:58	<I>: 	Opening MAMP control panel.
+
+03-04-2019 12:13:58	<I>: 	Starting MAMP
+
+03-04-2019 12:13:58	<I>: 	MAMP Build version: 4.1.0.23876
+
+03-04-2019 12:13:58	<I>: 	MAMP x86 release binaries.
+
+03-04-2019 12:13:58	<I>: 	
+
+03-04-2019 12:13:58	<I>: 	Operation System:  Microsoft Windows NT 6.2.9200.0
+
+03-04-2019 12:13:58	<I>: 	ProcessorCount:  8
+
+03-04-2019 12:13:58	<I>: 	64Bit OS:  Yes
+
+03-04-2019 12:13:58	<I>: 	Region:  India
+
+03-04-2019 12:13:58	<I>: 	Region DisplayName:  India
+
+03-04-2019 12:13:58	<I>: 	TwoLetterISORegionName:  IN
+
+03-04-2019 12:13:58	<I>: 	ThreeLetterISORegionName:  IND
+
+03-04-2019 12:13:58	<I>: 	System Page Size:  4096
+
+03-04-2019 12:13:58	<I>: 	SystemDirectory:  C:\WINDOWS\system32
+
+03-04-2019 12:13:58	<I>: 	UserDomainName:  LAPTOP-DBJ59LPV
+
+03-04-2019 12:13:58	<I>: 	UserName: Varun
+
+03-04-2019 12:13:58	<I>: 		 Drive: C:\
+
+03-04-2019 12:13:58	<I>: 			 VolumeLabel: Windows
+
+03-04-2019 12:13:58	<I>: 			 DriveType: Fixed
+
+03-04-2019 12:13:58	<I>: 			 DriveFormat: NTFS
+
+03-04-2019 12:13:58	<I>: 			 TotalSize: 247827787776
+
+03-04-2019 12:13:58	<I>: 			 AvailableFreeSpace: 95822004224
+
+03-04-2019 12:13:58	<I>: 		 Drive: D:\
+
+03-04-2019 12:13:58	<I>: 			 VolumeLabel: RECOVERY
+
+03-04-2019 12:13:58	<I>: 			 DriveType: Fixed
+
+03-04-2019 12:13:58	<I>: 			 DriveFormat: NTFS
+
+03-04-2019 12:13:58	<I>: 			 TotalSize: 14543745024
+
+03-04-2019 12:13:58	<I>: 			 AvailableFreeSpace: 1517465600
+
+03-04-2019 12:13:58	<I>: 		 Drive: F:\
+
+03-04-2019 12:13:58	<I>: 			 VolumeLabel: Songssssss
+
+03-04-2019 12:13:58	<I>: 			 DriveType: Fixed
+
+03-04-2019 12:13:58	<I>: 			 DriveFormat: NTFS
+
+03-04-2019 12:13:58	<I>: 			 TotalSize: 245774675968
+
+03-04-2019 12:13:58	<I>: 			 AvailableFreeSpace: 79562874880
+
+03-04-2019 12:13:58	<I>: 		 Drive: G:\
+
+03-04-2019 12:13:58	<I>: 			 VolumeLabel: Games
+
+03-04-2019 12:13:58	<I>: 			 DriveType: Fixed
+
+03-04-2019 12:13:58	<I>: 			 DriveFormat: NTFS
+
+03-04-2019 12:13:58	<I>: 			 TotalSize: 490732515328
+
+03-04-2019 12:13:58	<I>: 			 AvailableFreeSpace: 277520162816
+
+03-04-2019 12:13:58	<I>: 	
+
+03-04-2019 12:13:58	<I>: 	Checking configuration files variables.
+
+03-04-2019 12:13:58	<I>: 	Base MAMP path is: C:\MAMP\
+
+03-04-2019 12:13:58	<I>: 	Server root is: 'C:\MAMP\bin\apache'
+
+03-04-2019 12:13:58	<I>: 	Checking if current php version is valid.
+
+03-04-2019 12:13:58	<I>: 	Now checking if current PHP Version is max or min php version:php7.2.10
+
+03-04-2019 12:13:59	<I>: 	PHP Min Version is:php7.1.20
+
+03-04-2019 12:13:59	<I>: 	PHP Max Version is:php7.2.10
+
+03-04-2019 12:13:59	<I>: 	Initilizing UI Settings from conf files.
+
+03-04-2019 12:13:59	<I>: 	Apache port for MAMP:80
+
+03-04-2019 12:13:59	<I>: 	MySQL port for MAMP:3306
+
+03-04-2019 12:13:59	<I>: 	Nginx port for MAMP from configuration file:80
+
+03-04-2019 12:13:59	<I>: 	Initialize cloud option active.
+
+03-04-2019 12:13:59	<I>: 	Initialize cloud database.
+
+03-04-2019 12:13:59	<I>: 	Initialize cloud IsCloudEncrypted.
+
+03-04-2019 12:13:59	<I>: 	Initialize cloud enc key.
+
+03-04-2019 12:13:59	<I>: 	Initialize cloud IsCloudKeyOnDesktop.
+
+03-04-2019 12:13:59	<I>: 	Initialize MyWebLink.
+
+03-04-2019 12:13:59	<I>: 	Initialize CloudFileRev.
+
+03-04-2019 12:13:59	<I>: 	webServer port is: 80
+
+03-04-2019 12:13:59	<I>: 	Doc root:C:\MAMP\htdocs
+
+03-04-2019 12:13:59	<I>: 	Apache port:80
+
+03-04-2019 12:13:59	<I>: 	Mysql port is:3306
+
+03-04-2019 12:13:59	<I>: 	Finished Initilizing UI Settings.
+
+03-04-2019 12:13:59	<I>: 	MySQL bin version: 5.7.24.0
+
+03-04-2019 12:13:59	<I>: 	Checking file access rights:LAPTOP-DBJ59LPV\Varun
+
+03-04-2019 12:13:59	<I>: 	MAMP detected that it needs to set file access rights for at least one file.
+
+03-04-2019 12:13:59	<I>: 	Setting access rights:C:\MAMP\logs
+
+03-04-2019 12:13:59	<E>: 	Could not set access rights on folder: C:\MAMP\logs
+
+03-04-2019 12:13:59	<I>: 	Checking ports.
+
+03-04-2019 12:13:59	<I>: 	Start when MAMP start check.
+
+03-04-2019 12:13:59	<I>: 	Set data to data context.
+
+03-04-2019 12:13:59	<I>: 	ShowLoadingIndicatorUI
+
+03-04-2019 12:13:59	<I>: 	Starting MAMP server processes.
+
+03-04-2019 12:13:59	<I>: 	Init registry.
+
+03-04-2019 12:13:59	<I>: 	Finished Init registry.
+
+03-04-2019 12:13:59	<I>: 	Finished initilizing UI interface data.
+
+03-04-2019 12:13:59	<I>: 	Enabled Preferences button.
+
+03-04-2019 12:13:59	<I>: 	Trying to start logging events for Windows events generated by MAMP PRO servers.
+
+03-04-2019 12:13:59	<I>: 	Started logging events form Windows Application events generated  by MAMP PRO servers.
+
+03-04-2019 12:13:59	<I>: 	Starting checking VC rutime versions.
+
+03-04-2019 12:13:59	<I>: 	Finished main app initialization.
+
+03-04-2019 12:13:59	<I>: 	Downloading banner metadata from : http://apps.mamp.info/Win/MAMP/banner/4.1/banner.json
+
+03-04-2019 12:13:59	<I>: 	WebServer or mysql are not active, checking ports.
+
+03-04-2019 12:13:59	<E>: 	Port is already used! Blocked app is: apache and port: 80
+
+03-04-2019 12:13:59	<I>: 	Executed checking VC versions was success.
+
+03-04-2019 12:13:59	<I>: 	VC2008 runtime:True
+
+03-04-2019 12:13:59	<I>: 	VC2010 runtime:True
+
+03-04-2019 12:13:59	<I>: 	VC2012 runtime:True
+
+03-04-2019 12:13:59	<I>: 	VC2015 runtime:True
+
+03-04-2019 12:13:59	<I>: 	VC runtimes tests were ok.
+
+03-04-2019 12:14:20	<I>: 	Downloading image banner.
+
+03-04-2019 12:14:20	<E>: 	There was an error in downloading or decoding image for banner.
+
+03-04-2019 13:09:23	<F>: 	Closing MAMP application.
+
+03-04-2019 13:11:24	<I>: 	ProcessName: MAMP
+
+03-04-2019 13:11:24	<I>: 	Only one instance of MAMP is running.
+
+03-04-2019 13:11:24	<I>: 	Checking MAMP PRO.
+
+03-04-2019 13:11:33	<I>: 	ProcessName: MAMP
+
+03-04-2019 13:11:33	<I>: 	Waiting for previous instance of MAMP to shutdown 0...
+
+03-04-2019 13:11:33	<I>: 	Shutting down, multiple instances are not allowed.
+
+03-04-2019 13:11:39	<I>: 	Done reading app setting.
+
+03-04-2019 13:11:39	<I>: 	Opening MAMP control panel.
+
+03-04-2019 13:11:39	<I>: 	Starting MAMP
+
+03-04-2019 13:11:39	<I>: 	MAMP Build version: 4.1.0.23876
+
+03-04-2019 13:11:39	<I>: 	MAMP x86 release binaries.
+
+03-04-2019 13:11:39	<I>: 	
+
+03-04-2019 13:11:39	<I>: 	Operation System:  Microsoft Windows NT 6.2.9200.0
+
+03-04-2019 13:11:39	<I>: 	ProcessorCount:  8
+
+03-04-2019 13:11:39	<I>: 	64Bit OS:  Yes
+
+03-04-2019 13:11:39	<I>: 	Region:  India
+
+03-04-2019 13:11:39	<I>: 	Region DisplayName:  India
+
+03-04-2019 13:11:39	<I>: 	TwoLetterISORegionName:  IN
+
+03-04-2019 13:11:39	<I>: 	ThreeLetterISORegionName:  IND
+
+03-04-2019 13:11:39	<I>: 	System Page Size:  4096
+
+03-04-2019 13:11:39	<I>: 	SystemDirectory:  C:\WINDOWS\system32
+
+03-04-2019 13:11:39	<I>: 	UserDomainName:  LAPTOP-DBJ59LPV
+
+03-04-2019 13:11:39	<I>: 	UserName: Varun
+
+03-04-2019 13:11:39	<I>: 		 Drive: C:\
+
+03-04-2019 13:11:39	<I>: 			 VolumeLabel: Windows
+
+03-04-2019 13:11:39	<I>: 			 DriveType: Fixed
+
+03-04-2019 13:11:39	<I>: 			 DriveFormat: NTFS
+
+03-04-2019 13:11:39	<I>: 			 TotalSize: 247827787776
+
+03-04-2019 13:11:39	<I>: 			 AvailableFreeSpace: 95738236928
+
+03-04-2019 13:11:39	<I>: 		 Drive: D:\
+
+03-04-2019 13:11:39	<I>: 			 VolumeLabel: RECOVERY
+
+03-04-2019 13:11:39	<I>: 			 DriveType: Fixed
+
+03-04-2019 13:11:39	<I>: 			 DriveFormat: NTFS
+
+03-04-2019 13:11:39	<I>: 			 TotalSize: 14543745024
+
+03-04-2019 13:11:39	<I>: 			 AvailableFreeSpace: 1517465600
+
+03-04-2019 13:11:39	<I>: 		 Drive: F:\
+
+03-04-2019 13:11:39	<I>: 			 VolumeLabel: Songssssss
+
+03-04-2019 13:11:39	<I>: 			 DriveType: Fixed
+
+03-04-2019 13:11:39	<I>: 			 DriveFormat: NTFS
+
+03-04-2019 13:11:39	<I>: 			 TotalSize: 245774675968
+
+03-04-2019 13:11:39	<I>: 			 AvailableFreeSpace: 79562874880
+
+03-04-2019 13:11:39	<I>: 		 Drive: G:\
+
+03-04-2019 13:11:39	<I>: 			 VolumeLabel: Games
+
+03-04-2019 13:11:39	<I>: 			 DriveType: Fixed
+
+03-04-2019 13:11:39	<I>: 			 DriveFormat: NTFS
+
+03-04-2019 13:11:39	<I>: 			 TotalSize: 490732515328
+
+03-04-2019 13:11:39	<I>: 			 AvailableFreeSpace: 277520162816
+
+03-04-2019 13:11:39	<I>: 	
+
+03-04-2019 13:11:39	<I>: 	Checking configuration files variables.
+
+03-04-2019 13:11:39	<I>: 	Base MAMP path is: C:\MAMP\
+
+03-04-2019 13:11:39	<I>: 	Server root is: 'C:\MAMP\bin\apache'
+
+03-04-2019 13:11:39	<I>: 	Checking if current php version is valid.
+
+03-04-2019 13:11:39	<I>: 	Now checking if current PHP Version is max or min php version:php7.2.10
+
+03-04-2019 13:11:39	<I>: 	PHP Min Version is:php7.1.20
+
+03-04-2019 13:11:39	<I>: 	PHP Max Version is:php7.2.10
+
+03-04-2019 13:11:39	<I>: 	Initilizing UI Settings from conf files.
+
+03-04-2019 13:11:39	<I>: 	Apache port for MAMP:80
+
+03-04-2019 13:11:39	<I>: 	MySQL port for MAMP:3306
+
+03-04-2019 13:11:39	<I>: 	Nginx port for MAMP from configuration file:80
+
+03-04-2019 13:11:39	<I>: 	Initialize cloud option active.
+
+03-04-2019 13:11:39	<I>: 	Initialize cloud database.
+
+03-04-2019 13:11:39	<I>: 	Initialize cloud IsCloudEncrypted.
+
+03-04-2019 13:11:39	<I>: 	Initialize cloud enc key.
+
+03-04-2019 13:11:39	<I>: 	Initialize cloud IsCloudKeyOnDesktop.
+
+03-04-2019 13:11:39	<I>: 	Initialize MyWebLink.
+
+03-04-2019 13:11:39	<I>: 	Initialize CloudFileRev.
+
+03-04-2019 13:11:40	<I>: 	webServer port is: 80
+
+03-04-2019 13:11:40	<I>: 	Doc root:C:\MAMP\htdocs
+
+03-04-2019 13:11:40	<I>: 	Apache port:80
+
+03-04-2019 13:11:40	<I>: 	Mysql port is:3306
+
+03-04-2019 13:11:40	<I>: 	Finished Initilizing UI Settings.
+
+03-04-2019 13:11:40	<I>: 	MySQL bin version: 5.7.24.0
+
+03-04-2019 13:11:40	<I>: 	Checking file access rights:LAPTOP-DBJ59LPV\Varun
+
+03-04-2019 13:11:40	<I>: 	MAMP detected that it needs to set file access rights for at least one file.
+
+03-04-2019 13:11:40	<I>: 	Setting access rights:C:\MAMP\logs
+
+03-04-2019 13:11:40	<E>: 	Could not set access rights on folder: C:\MAMP\logs
+
+03-04-2019 13:11:40	<I>: 	Checking ports.
+
+03-04-2019 13:11:40	<I>: 	Start when MAMP start check.
+
+03-04-2019 13:11:40	<I>: 	Set data to data context.
+
+03-04-2019 13:11:40	<I>: 	ShowLoadingIndicatorUI
+
+03-04-2019 13:11:40	<I>: 	Starting MAMP server processes.
+
+03-04-2019 13:11:40	<I>: 	Init registry.
+
+03-04-2019 13:11:40	<I>: 	Finished Init registry.
+
+03-04-2019 13:11:40	<I>: 	Finished initilizing UI interface data.
+
+03-04-2019 13:11:40	<I>: 	Enabled Preferences button.
+
+03-04-2019 13:11:40	<I>: 	Trying to start logging events for Windows events generated by MAMP PRO servers.
+
+03-04-2019 13:11:40	<I>: 	Started logging events form Windows Application events generated  by MAMP PRO servers.
+
+03-04-2019 13:11:40	<I>: 	Starting checking VC rutime versions.
+
+03-04-2019 13:11:40	<I>: 	Finished main app initialization.
+
+03-04-2019 13:11:40	<I>: 	Downloading banner metadata from : http://apps.mamp.info/Win/MAMP/banner/4.1/banner.json
+
+03-04-2019 13:11:40	<I>: 	WebServer or mysql are not active, checking ports.
+
+03-04-2019 13:11:40	<I>: 	Ports ok.
+
+03-04-2019 13:11:40	<I>: 	Starting all processes.
+
+03-04-2019 13:11:40	<I>: 	Executed checking VC versions was success.
+
+03-04-2019 13:11:40	<I>: 	VC2008 runtime:True
+
+03-04-2019 13:11:40	<I>: 	VC2010 runtime:True
+
+03-04-2019 13:11:40	<I>: 	VC2012 runtime:True
+
+03-04-2019 13:11:40	<I>: 	VC2015 runtime:True
+
+03-04-2019 13:11:40	<I>: 	VC runtimes tests were ok.
+
+03-04-2019 13:11:40	<I>: 	Downloading image banner.
+
+03-04-2019 13:11:40	<I>: 	Image banner url:https://apps.mamp.info/Win/MAMP/banner/4.0/bannerCurrent_en.png
+
+03-04-2019 13:11:41	<I>: 	Decoding image from byte array.
+
+03-04-2019 13:11:42	<I>: 	Finished starting all processes.
+
+03-04-2019 13:16:17	<F>: 	Closing MAMP application.
+
+03-04-2019 13:40:23	<I>: 	ProcessName: MAMP
+
+03-04-2019 13:40:23	<I>: 	Only one instance of MAMP is running.
+
+03-04-2019 13:40:23	<I>: 	Checking MAMP PRO.
+
+03-04-2019 13:40:38	<I>: 	Done reading app setting.
+
+03-04-2019 13:40:38	<I>: 	Opening MAMP control panel.
+
+03-04-2019 13:40:39	<I>: 	Starting MAMP
+
+03-04-2019 13:40:39	<I>: 	MAMP Build version: 4.1.0.23876
+
+03-04-2019 13:40:39	<I>: 	MAMP x86 release binaries.
+
+03-04-2019 13:40:39	<I>: 	
+
+03-04-2019 13:40:39	<I>: 	Operation System:  Microsoft Windows NT 6.2.9200.0
+
+03-04-2019 13:40:39	<I>: 	ProcessorCount:  8
+
+03-04-2019 13:40:39	<I>: 	64Bit OS:  Yes
+
+03-04-2019 13:40:39	<I>: 	Region:  India
+
+03-04-2019 13:40:39	<I>: 	Region DisplayName:  India
+
+03-04-2019 13:40:39	<I>: 	TwoLetterISORegionName:  IN
+
+03-04-2019 13:40:39	<I>: 	ThreeLetterISORegionName:  IND
+
+03-04-2019 13:40:39	<I>: 	System Page Size:  4096
+
+03-04-2019 13:40:39	<I>: 	SystemDirectory:  C:\WINDOWS\system32
+
+03-04-2019 13:40:39	<I>: 	UserDomainName:  LAPTOP-DBJ59LPV
+
+03-04-2019 13:40:39	<I>: 	UserName: Varun
+
+03-04-2019 13:40:39	<I>: 		 Drive: C:\
+
+03-04-2019 13:40:39	<I>: 			 VolumeLabel: Windows
+
+03-04-2019 13:40:39	<I>: 			 DriveType: Fixed
+
+03-04-2019 13:40:39	<I>: 			 DriveFormat: NTFS
+
+03-04-2019 13:40:39	<I>: 			 TotalSize: 247827787776
+
+03-04-2019 13:40:39	<I>: 			 AvailableFreeSpace: 95732600832
+
+03-04-2019 13:40:39	<I>: 		 Drive: D:\
+
+03-04-2019 13:40:39	<I>: 			 VolumeLabel: RECOVERY
+
+03-04-2019 13:40:39	<I>: 			 DriveType: Fixed
+
+03-04-2019 13:40:39	<I>: 			 DriveFormat: NTFS
+
+03-04-2019 13:40:39	<I>: 			 TotalSize: 14543745024
+
+03-04-2019 13:40:39	<I>: 			 AvailableFreeSpace: 1517465600
+
+03-04-2019 13:40:39	<I>: 		 Drive: F:\
+
+03-04-2019 13:40:39	<I>: 			 VolumeLabel: Songssssss
+
+03-04-2019 13:40:39	<I>: 			 DriveType: Fixed
+
+03-04-2019 13:40:39	<I>: 			 DriveFormat: NTFS
+
+03-04-2019 13:40:39	<I>: 			 TotalSize: 245774675968
+
+03-04-2019 13:40:39	<I>: 			 AvailableFreeSpace: 79562874880
+
+03-04-2019 13:40:39	<I>: 		 Drive: G:\
+
+03-04-2019 13:40:39	<I>: 			 VolumeLabel: Games
+
+03-04-2019 13:40:39	<I>: 			 DriveType: Fixed
+
+03-04-2019 13:40:39	<I>: 			 DriveFormat: NTFS
+
+03-04-2019 13:40:39	<I>: 			 TotalSize: 490732515328
+
+03-04-2019 13:40:39	<I>: 			 AvailableFreeSpace: 277520162816
+
+03-04-2019 13:40:39	<I>: 	
+
+03-04-2019 13:40:39	<I>: 	Checking configuration files variables.
+
+03-04-2019 13:40:39	<I>: 	Base MAMP path is: C:\MAMP\
+
+03-04-2019 13:40:39	<I>: 	ProcessName: MAMP
+
+03-04-2019 13:40:39	<I>: 	Server root is: 'C:\MAMP\bin\apache'
+
+03-04-2019 13:40:39	<I>: 	Checking if current php version is valid.
+
+03-04-2019 13:40:39	<I>: 	Waiting for previous instance of MAMP to shutdown 0...
+
+03-04-2019 13:40:39	<I>: 	Now checking if current PHP Version is max or min php version:php7.2.10
+
+03-04-2019 13:40:39	<I>: 	PHP Min Version is:php7.1.20
+
+03-04-2019 13:40:39	<I>: 	PHP Max Version is:php7.2.10
+
+03-04-2019 13:40:39	<I>: 	Initilizing UI Settings from conf files.
+
+03-04-2019 13:40:39	<I>: 	Apache port for MAMP:80
+
+03-04-2019 13:40:39	<I>: 	MySQL port for MAMP:3306
+
+03-04-2019 13:40:39	<I>: 	Nginx port for MAMP from configuration file:80
+
+03-04-2019 13:40:39	<I>: 	Initialize cloud option active.
+
+03-04-2019 13:40:39	<I>: 	Initialize cloud database.
+
+03-04-2019 13:40:39	<I>: 	Initialize cloud IsCloudEncrypted.
+
+03-04-2019 13:40:39	<I>: 	Initialize cloud enc key.
+
+03-04-2019 13:40:39	<I>: 	Initialize cloud IsCloudKeyOnDesktop.
+
+03-04-2019 13:40:39	<I>: 	Initialize MyWebLink.
+
+03-04-2019 13:40:39	<I>: 	Initialize CloudFileRev.
+
+03-04-2019 13:40:40	<I>: 	Shutting down, multiple instances are not allowed.
+
+03-04-2019 13:40:40	<I>: 	webServer port is: 80
+
+03-04-2019 13:40:40	<I>: 	Doc root:C:\MAMP\htdocs
+
+03-04-2019 13:40:40	<I>: 	Apache port:80
+
+03-04-2019 13:40:40	<I>: 	Mysql port is:3306
+
+03-04-2019 13:40:40	<I>: 	Finished Initilizing UI Settings.
+
+03-04-2019 13:40:40	<I>: 	MySQL bin version: 5.7.24.0
+
+03-04-2019 13:40:40	<I>: 	Checking file access rights:LAPTOP-DBJ59LPV\Varun
+
+03-04-2019 13:40:40	<I>: 	MAMP detected that it needs to set file access rights for at least one file.
+
+03-04-2019 13:40:40	<I>: 	Setting access rights:C:\MAMP\logs
+
+03-04-2019 13:40:40	<E>: 	Could not set access rights on folder: C:\MAMP\logs
+
+03-04-2019 13:40:40	<I>: 	Checking ports.
+
+03-04-2019 13:40:40	<I>: 	Start when MAMP start check.
+
+03-04-2019 13:40:40	<I>: 	Set data to data context.
+
+03-04-2019 13:40:40	<I>: 	ShowLoadingIndicatorUI
+
+03-04-2019 13:40:40	<I>: 	Starting MAMP server processes.
+
+03-04-2019 13:40:40	<I>: 	Init registry.
+
+03-04-2019 13:40:40	<I>: 	Finished Init registry.
+
+03-04-2019 13:40:40	<I>: 	Finished initilizing UI interface data.
+
+03-04-2019 13:40:40	<I>: 	Enabled Preferences button.
+
+03-04-2019 13:40:40	<I>: 	Trying to start logging events for Windows events generated by MAMP PRO servers.
+
+03-04-2019 13:40:40	<I>: 	Started logging events form Windows Application events generated  by MAMP PRO servers.
+
+03-04-2019 13:40:40	<I>: 	Starting checking VC rutime versions.
+
+03-04-2019 13:40:40	<I>: 	Finished main app initialization.
+
+03-04-2019 13:40:40	<I>: 	Downloading banner metadata from : http://apps.mamp.info/Win/MAMP/banner/4.1/banner.json
+
+03-04-2019 13:40:40	<I>: 	WebServer or mysql are not active, checking ports.
+
+03-04-2019 13:40:40	<I>: 	Ports ok.
+
+03-04-2019 13:40:40	<I>: 	Starting all processes.
+
+03-04-2019 13:40:40	<I>: 	Executed checking VC versions was success.
+
+03-04-2019 13:40:40	<I>: 	VC2008 runtime:True
+
+03-04-2019 13:40:40	<I>: 	VC2010 runtime:True
+
+03-04-2019 13:40:40	<I>: 	VC2012 runtime:True
+
+03-04-2019 13:40:40	<I>: 	VC2015 runtime:True
+
+03-04-2019 13:40:40	<I>: 	VC runtimes tests were ok.
+
+03-04-2019 13:40:40	<I>: 	Downloading image banner.
+
+03-04-2019 13:40:40	<I>: 	Image banner url:https://apps.mamp.info/Win/MAMP/banner/4.0/bannerCurrent_en.png
+
+03-04-2019 13:40:42	<I>: 	Decoding image from byte array.
+
+03-04-2019 13:40:42	<I>: 	Finished starting all processes.
+
+03-04-2019 14:08:19	<F>: 	Closing MAMP application.
+
+04-04-2019 13:19:03	<I>: 	ProcessName: MAMP
+
+04-04-2019 13:19:03	<I>: 	Only one instance of MAMP is running.
+
+04-04-2019 13:19:03	<I>: 	Checking MAMP PRO.
+
+04-04-2019 13:19:18	<I>: 	Done reading app setting.
+
+04-04-2019 13:19:18	<I>: 	Opening MAMP control panel.
+
+04-04-2019 13:19:19	<I>: 	Starting MAMP
+
+04-04-2019 13:19:19	<I>: 	MAMP Build version: 4.1.0.23876
+
+04-04-2019 13:19:19	<I>: 	MAMP x86 release binaries.
+
+04-04-2019 13:19:19	<I>: 	
+
+04-04-2019 13:19:19	<I>: 	Operation System:  Microsoft Windows NT 6.2.9200.0
+
+04-04-2019 13:19:19	<I>: 	ProcessorCount:  8
+
+04-04-2019 13:19:19	<I>: 	64Bit OS:  Yes
+
+04-04-2019 13:19:19	<I>: 	Region:  India
+
+04-04-2019 13:19:19	<I>: 	Region DisplayName:  India
+
+04-04-2019 13:19:19	<I>: 	TwoLetterISORegionName:  IN
+
+04-04-2019 13:19:19	<I>: 	ThreeLetterISORegionName:  IND
+
+04-04-2019 13:19:19	<I>: 	System Page Size:  4096
+
+04-04-2019 13:19:19	<I>: 	SystemDirectory:  C:\WINDOWS\system32
+
+04-04-2019 13:19:19	<I>: 	UserDomainName:  LAPTOP-DBJ59LPV
+
+04-04-2019 13:19:19	<I>: 	UserName: Varun
+
+04-04-2019 13:19:19	<I>: 		 Drive: C:\
+
+04-04-2019 13:19:19	<I>: 			 VolumeLabel: Windows
+
+04-04-2019 13:19:19	<I>: 			 DriveType: Fixed
+
+04-04-2019 13:19:19	<I>: 			 DriveFormat: NTFS
+
+04-04-2019 13:19:19	<I>: 			 TotalSize: 247827787776
+
+04-04-2019 13:19:19	<I>: 			 AvailableFreeSpace: 103256838144
+
+04-04-2019 13:19:19	<I>: 		 Drive: D:\
+
+04-04-2019 13:19:19	<I>: 			 VolumeLabel: RECOVERY
+
+04-04-2019 13:19:19	<I>: 			 DriveType: Fixed
+
+04-04-2019 13:19:19	<I>: 			 DriveFormat: NTFS
+
+04-04-2019 13:19:19	<I>: 			 TotalSize: 14543745024
+
+04-04-2019 13:19:19	<I>: 			 AvailableFreeSpace: 1517465600
+
+04-04-2019 13:19:19	<I>: 		 Drive: F:\
+
+04-04-2019 13:19:19	<I>: 			 VolumeLabel: Songssssss
+
+04-04-2019 13:19:19	<I>: 			 DriveType: Fixed
+
+04-04-2019 13:19:19	<I>: 			 DriveFormat: NTFS
+
+04-04-2019 13:19:19	<I>: 			 TotalSize: 245774675968
+
+04-04-2019 13:19:19	<I>: 			 AvailableFreeSpace: 79246663680
+
+04-04-2019 13:19:19	<I>: 		 Drive: G:\
+
+04-04-2019 13:19:19	<I>: 			 VolumeLabel: Games
+
+04-04-2019 13:19:19	<I>: 			 DriveType: Fixed
+
+04-04-2019 13:19:19	<I>: 			 DriveFormat: NTFS
+
+04-04-2019 13:19:19	<I>: 			 TotalSize: 490732515328
+
+04-04-2019 13:19:19	<I>: 			 AvailableFreeSpace: 277520809984
+
+04-04-2019 13:19:19	<I>: 	
+
+04-04-2019 13:19:20	<I>: 	Checking configuration files variables.
+
+04-04-2019 13:19:20	<I>: 	Base MAMP path is: C:\MAMP\
+
+04-04-2019 13:19:20	<I>: 	Server root is: 'C:\MAMP\bin\apache'
+
+04-04-2019 13:19:20	<I>: 	Checking if current php version is valid.
+
+04-04-2019 13:19:20	<I>: 	Now checking if current PHP Version is max or min php version:php7.2.10
+
+04-04-2019 13:19:20	<I>: 	PHP Min Version is:php7.1.20
+
+04-04-2019 13:19:20	<I>: 	PHP Max Version is:php7.2.10
+
+04-04-2019 13:19:20	<I>: 	Initilizing UI Settings from conf files.
+
+04-04-2019 13:19:20	<I>: 	Apache port for MAMP:80
+
+04-04-2019 13:19:20	<I>: 	MySQL port for MAMP:3306
+
+04-04-2019 13:19:20	<I>: 	Nginx port for MAMP from configuration file:80
+
+04-04-2019 13:19:20	<I>: 	Initialize cloud option active.
+
+04-04-2019 13:19:20	<I>: 	Initialize cloud database.
+
+04-04-2019 13:19:20	<I>: 	Initialize cloud IsCloudEncrypted.
+
+04-04-2019 13:19:20	<I>: 	Initialize cloud enc key.
+
+04-04-2019 13:19:20	<I>: 	Initialize cloud IsCloudKeyOnDesktop.
+
+04-04-2019 13:19:20	<I>: 	Initialize MyWebLink.
+
+04-04-2019 13:19:20	<I>: 	Initialize CloudFileRev.
+
+04-04-2019 13:19:20	<I>: 	webServer port is: 80
+
+04-04-2019 13:19:20	<I>: 	Doc root:C:\MAMP\htdocs
+
+04-04-2019 13:19:20	<I>: 	Apache port:80
+
+04-04-2019 13:19:20	<I>: 	Mysql port is:3306
+
+04-04-2019 13:19:20	<I>: 	Finished Initilizing UI Settings.
+
+04-04-2019 13:19:21	<I>: 	MySQL bin version: 5.7.24.0
+
+04-04-2019 13:19:21	<I>: 	Checking file access rights:LAPTOP-DBJ59LPV\Varun
+
+04-04-2019 13:19:21	<I>: 	MAMP detected that it needs to set file access rights for at least one file.
+
+04-04-2019 13:19:21	<I>: 	Setting access rights:C:\MAMP\logs
+
+04-04-2019 13:19:21	<E>: 	Could not set access rights on folder: C:\MAMP\logs
+
+04-04-2019 13:19:21	<I>: 	Checking ports.
+
+04-04-2019 13:19:21	<I>: 	Start when MAMP start check.
+
+04-04-2019 13:19:21	<I>: 	Set data to data context.
+
+04-04-2019 13:19:21	<I>: 	ShowLoadingIndicatorUI
+
+04-04-2019 13:19:21	<I>: 	Starting MAMP server processes.
+
+04-04-2019 13:19:21	<I>: 	Init registry.
+
+04-04-2019 13:19:21	<I>: 	Finished Init registry.
+
+04-04-2019 13:19:21	<I>: 	Finished initilizing UI interface data.
+
+04-04-2019 13:19:21	<I>: 	Enabled Preferences button.
+
+04-04-2019 13:19:21	<I>: 	Trying to start logging events for Windows events generated by MAMP PRO servers.
+
+04-04-2019 13:19:21	<I>: 	Started logging events form Windows Application events generated  by MAMP PRO servers.
+
+04-04-2019 13:19:21	<I>: 	Starting checking VC rutime versions.
+
+04-04-2019 13:19:21	<I>: 	Finished main app initialization.
+
+04-04-2019 13:19:21	<I>: 	WebServer or mysql are not active, checking ports.
+
+04-04-2019 13:19:22	<I>: 	Ports ok.
+
+04-04-2019 13:19:22	<I>: 	Starting all processes.
+
+04-04-2019 13:19:22	<I>: 	Downloading banner metadata from : http://apps.mamp.info/Win/MAMP/banner/4.1/banner.json
+
+04-04-2019 13:19:22	<I>: 	Executed checking VC versions was success.
+
+04-04-2019 13:19:22	<I>: 	VC2008 runtime:True
+
+04-04-2019 13:19:22	<I>: 	VC2010 runtime:True
+
+04-04-2019 13:19:22	<I>: 	VC2012 runtime:True
+
+04-04-2019 13:19:22	<I>: 	VC2015 runtime:True
+
+04-04-2019 13:19:22	<I>: 	VC runtimes tests were ok.
+
+04-04-2019 13:19:23	<I>: 	Downloading image banner.
+
+04-04-2019 13:19:23	<I>: 	Image banner url:https://apps.mamp.info/Win/MAMP/banner/4.0/bannerCurrent_en.png
+
+04-04-2019 13:19:25	<I>: 	Decoding image from byte array.
+
+04-04-2019 13:19:28	<I>: 	Finished starting all processes.
+
+04-04-2019 13:21:24	<F>: 	Closing MAMP application.
+
+05-04-2019 12:48:25	<I>: 	ProcessName: MAMP
+
+05-04-2019 12:48:25	<I>: 	Only one instance of MAMP is running.
+
+05-04-2019 12:48:25	<I>: 	Checking MAMP PRO.
+
+05-04-2019 12:48:40	<I>: 	Done reading app setting.
+
+05-04-2019 12:48:40	<I>: 	Opening MAMP control panel.
+
+05-04-2019 12:48:41	<I>: 	Starting MAMP
+
+05-04-2019 12:48:41	<I>: 	MAMP Build version: 4.1.0.23876
+
+05-04-2019 12:48:41	<I>: 	MAMP x86 release binaries.
+
+05-04-2019 12:48:41	<I>: 	
+
+05-04-2019 12:48:41	<I>: 	Operation System:  Microsoft Windows NT 6.2.9200.0
+
+05-04-2019 12:48:41	<I>: 	ProcessorCount:  8
+
+05-04-2019 12:48:41	<I>: 	64Bit OS:  Yes
+
+05-04-2019 12:48:41	<I>: 	Region:  India
+
+05-04-2019 12:48:41	<I>: 	Region DisplayName:  India
+
+05-04-2019 12:48:41	<I>: 	TwoLetterISORegionName:  IN
+
+05-04-2019 12:48:41	<I>: 	ThreeLetterISORegionName:  IND
+
+05-04-2019 12:48:41	<I>: 	System Page Size:  4096
+
+05-04-2019 12:48:41	<I>: 	SystemDirectory:  C:\WINDOWS\system32
+
+05-04-2019 12:48:41	<I>: 	UserDomainName:  LAPTOP-DBJ59LPV
+
+05-04-2019 12:48:41	<I>: 	UserName: Varun
+
+05-04-2019 12:48:41	<I>: 		 Drive: C:\
+
+05-04-2019 12:48:41	<I>: 			 VolumeLabel: Windows
+
+05-04-2019 12:48:41	<I>: 			 DriveType: Fixed
+
+05-04-2019 12:48:41	<I>: 			 DriveFormat: NTFS
+
+05-04-2019 12:48:41	<I>: 			 TotalSize: 247827787776
+
+05-04-2019 12:48:41	<I>: 			 AvailableFreeSpace: 102667116544
+
+05-04-2019 12:48:41	<I>: 		 Drive: D:\
+
+05-04-2019 12:48:41	<I>: 			 VolumeLabel: RECOVERY
+
+05-04-2019 12:48:41	<I>: 			 DriveType: Fixed
+
+05-04-2019 12:48:41	<I>: 			 DriveFormat: NTFS
+
+05-04-2019 12:48:41	<I>: 			 TotalSize: 14543745024
+
+05-04-2019 12:48:41	<I>: 			 AvailableFreeSpace: 1517465600
+
+05-04-2019 12:48:41	<I>: 		 Drive: F:\
+
+05-04-2019 12:48:41	<I>: 			 VolumeLabel: Songssssss
+
+05-04-2019 12:48:41	<I>: 			 DriveType: Fixed
+
+05-04-2019 12:48:41	<I>: 			 DriveFormat: NTFS
+
+05-04-2019 12:48:41	<I>: 			 TotalSize: 245774675968
+
+05-04-2019 12:48:41	<I>: 			 AvailableFreeSpace: 79246663680
+
+05-04-2019 12:48:41	<I>: 		 Drive: G:\
+
+05-04-2019 12:48:41	<I>: 			 VolumeLabel: Games
+
+05-04-2019 12:48:41	<I>: 			 DriveType: Fixed
+
+05-04-2019 12:48:41	<I>: 			 DriveFormat: NTFS
+
+05-04-2019 12:48:41	<I>: 			 TotalSize: 490732515328
+
+05-04-2019 12:48:41	<I>: 			 AvailableFreeSpace: 295277404160
+
+05-04-2019 12:48:41	<I>: 	
+
+05-04-2019 12:48:42	<I>: 	Checking configuration files variables.
+
+05-04-2019 12:48:42	<I>: 	Base MAMP path is: C:\MAMP\
+
+05-04-2019 12:48:42	<I>: 	Server root is: 'C:\MAMP\bin\apache'
+
+05-04-2019 12:48:42	<I>: 	Checking if current php version is valid.
+
+05-04-2019 12:48:42	<I>: 	Now checking if current PHP Version is max or min php version:php7.2.10
+
+05-04-2019 12:48:42	<I>: 	PHP Min Version is:php7.1.20
+
+05-04-2019 12:48:42	<I>: 	PHP Max Version is:php7.2.10
+
+05-04-2019 12:48:42	<I>: 	Initilizing UI Settings from conf files.
+
+05-04-2019 12:48:42	<I>: 	Apache port for MAMP:80
+
+05-04-2019 12:48:42	<I>: 	MySQL port for MAMP:3306
+
+05-04-2019 12:48:42	<I>: 	Nginx port for MAMP from configuration file:80
+
+05-04-2019 12:48:42	<I>: 	Initialize cloud option active.
+
+05-04-2019 12:48:42	<I>: 	Initialize cloud database.
+
+05-04-2019 12:48:42	<I>: 	Initialize cloud IsCloudEncrypted.
+
+05-04-2019 12:48:42	<I>: 	Initialize cloud enc key.
+
+05-04-2019 12:48:42	<I>: 	Initialize cloud IsCloudKeyOnDesktop.
+
+05-04-2019 12:48:42	<I>: 	Initialize MyWebLink.
+
+05-04-2019 12:48:43	<I>: 	Initialize CloudFileRev.
+
+05-04-2019 12:48:43	<I>: 	webServer port is: 80
+
+05-04-2019 12:48:43	<I>: 	Doc root:C:\MAMP\htdocs
+
+05-04-2019 12:48:43	<I>: 	Apache port:80
+
+05-04-2019 12:48:43	<I>: 	Mysql port is:3306
+
+05-04-2019 12:48:43	<I>: 	Finished Initilizing UI Settings.
+
+05-04-2019 12:48:43	<I>: 	MySQL bin version: 5.7.24.0
+
+05-04-2019 12:48:43	<I>: 	Checking file access rights:LAPTOP-DBJ59LPV\Varun
+
+05-04-2019 12:48:44	<I>: 	MAMP detected that it needs to set file access rights for at least one file.
+
+05-04-2019 12:48:44	<I>: 	Setting access rights:C:\MAMP\logs
+
+05-04-2019 12:48:44	<E>: 	Could not set access rights on folder: C:\MAMP\logs
+
+05-04-2019 12:48:44	<I>: 	Checking ports.
+
+05-04-2019 12:48:44	<I>: 	Start when MAMP start check.
+
+05-04-2019 12:48:44	<I>: 	Set data to data context.
+
+05-04-2019 12:48:45	<I>: 	ShowLoadingIndicatorUI
+
+05-04-2019 12:48:45	<I>: 	Starting MAMP server processes.
+
+05-04-2019 12:48:45	<I>: 	Init registry.
+
+05-04-2019 12:48:45	<I>: 	Finished Init registry.
+
+05-04-2019 12:48:45	<I>: 	Finished initilizing UI interface data.
+
+05-04-2019 12:48:45	<I>: 	Enabled Preferences button.
+
+05-04-2019 12:48:45	<I>: 	Trying to start logging events for Windows events generated by MAMP PRO servers.
+
+05-04-2019 12:48:45	<I>: 	Started logging events form Windows Application events generated  by MAMP PRO servers.
+
+05-04-2019 12:48:45	<I>: 	Starting checking VC rutime versions.
+
+05-04-2019 12:48:45	<I>: 	Finished main app initialization.
+
+05-04-2019 12:48:45	<I>: 	WebServer or mysql are not active, checking ports.
+
+05-04-2019 12:48:45	<I>: 	Ports ok.
+
+05-04-2019 12:48:45	<I>: 	Starting all processes.
+
+05-04-2019 12:48:45	<I>: 	Downloading banner metadata from : http://apps.mamp.info/Win/MAMP/banner/4.1/banner.json
+
+05-04-2019 12:48:45	<I>: 	Executed checking VC versions was success.
+
+05-04-2019 12:48:45	<I>: 	VC2008 runtime:True
+
+05-04-2019 12:48:45	<I>: 	VC2010 runtime:True
+
+05-04-2019 12:48:45	<I>: 	VC2012 runtime:True
+
+05-04-2019 12:48:45	<I>: 	VC2015 runtime:True
+
+05-04-2019 12:48:45	<I>: 	VC runtimes tests were ok.
+
+05-04-2019 12:48:46	<I>: 	Downloading image banner.
+
+05-04-2019 12:48:46	<I>: 	Image banner url:https://apps.mamp.info/Win/MAMP/banner/4.0/bannerCurrent_en.png
+
+05-04-2019 12:48:47	<I>: 	Decoding image from byte array.
+
+05-04-2019 12:48:50	<I>: 	Finished starting all processes.
+
+05-04-2019 12:49:24	<F>: 	Closing MAMP application.
+
+06-04-2019 11:42:30	<I>: 	ProcessName: MAMP
+
+06-04-2019 11:42:30	<I>: 	Only one instance of MAMP is running.
+
+06-04-2019 11:42:30	<I>: 	Checking MAMP PRO.
+
+06-04-2019 11:42:46	<I>: 	Done reading app setting.
+
+06-04-2019 11:42:46	<I>: 	Opening MAMP control panel.
+
+06-04-2019 11:43:02	<I>: 	Starting MAMP
+
+06-04-2019 11:43:02	<I>: 	MAMP Build version: 4.1.0.23876
+
+06-04-2019 11:43:02	<I>: 	MAMP x86 release binaries.
+
+06-04-2019 11:43:02	<I>: 	
+
+06-04-2019 11:43:02	<I>: 	Operation System:  Microsoft Windows NT 6.2.9200.0
+
+06-04-2019 11:43:02	<I>: 	ProcessorCount:  8
+
+06-04-2019 11:43:02	<I>: 	64Bit OS:  Yes
+
+06-04-2019 11:43:02	<I>: 	Region:  India
+
+06-04-2019 11:43:02	<I>: 	Region DisplayName:  India
+
+06-04-2019 11:43:02	<I>: 	TwoLetterISORegionName:  IN
+
+06-04-2019 11:43:02	<I>: 	ThreeLetterISORegionName:  IND
+
+06-04-2019 11:43:02	<I>: 	System Page Size:  4096
+
+06-04-2019 11:43:02	<I>: 	SystemDirectory:  C:\WINDOWS\system32
+
+06-04-2019 11:43:02	<I>: 	UserDomainName:  LAPTOP-DBJ59LPV
+
+06-04-2019 11:43:02	<I>: 	UserName: Varun
+
+06-04-2019 11:43:02	<I>: 		 Drive: C:\
+
+06-04-2019 11:43:02	<I>: 			 VolumeLabel: Windows
+
+06-04-2019 11:43:02	<I>: 			 DriveType: Fixed
+
+06-04-2019 11:43:02	<I>: 			 DriveFormat: NTFS
+
+06-04-2019 11:43:02	<I>: 			 TotalSize: 247827787776
+
+06-04-2019 11:43:02	<I>: 			 AvailableFreeSpace: 99467325440
+
+06-04-2019 11:43:02	<I>: 		 Drive: D:\
+
+06-04-2019 11:43:02	<I>: 			 VolumeLabel: RECOVERY
+
+06-04-2019 11:43:02	<I>: 			 DriveType: Fixed
+
+06-04-2019 11:43:02	<I>: 			 DriveFormat: NTFS
+
+06-04-2019 11:43:02	<I>: 			 TotalSize: 14543745024
+
+06-04-2019 11:43:02	<I>: 			 AvailableFreeSpace: 1517465600
+
+06-04-2019 11:43:02	<I>: 		 Drive: F:\
+
+06-04-2019 11:43:02	<I>: 			 VolumeLabel: Songssssss
+
+06-04-2019 11:43:02	<I>: 			 DriveType: Fixed
+
+06-04-2019 11:43:02	<I>: 			 DriveFormat: NTFS
+
+06-04-2019 11:43:02	<I>: 			 TotalSize: 245774675968
+
+06-04-2019 11:43:02	<I>: 			 AvailableFreeSpace: 82082213888
+
+06-04-2019 11:43:02	<I>: 		 Drive: G:\
+
+06-04-2019 11:43:02	<I>: 			 VolumeLabel: Games
+
+06-04-2019 11:43:02	<I>: 			 DriveType: Fixed
+
+06-04-2019 11:43:02	<I>: 			 DriveFormat: NTFS
+
+06-04-2019 11:43:02	<I>: 			 TotalSize: 490732515328
+
+06-04-2019 11:43:02	<I>: 			 AvailableFreeSpace: 355851509760
+
+06-04-2019 11:43:02	<I>: 	
+
+06-04-2019 11:43:02	<I>: 	Checking configuration files variables.
+
+06-04-2019 11:43:02	<I>: 	Base MAMP path is: C:\MAMP\
+
+06-04-2019 11:43:03	<I>: 	Server root is: 'C:\MAMP\bin\apache'
+
+06-04-2019 11:43:03	<I>: 	Checking if current php version is valid.
+
+06-04-2019 11:43:03	<I>: 	Now checking if current PHP Version is max or min php version:php7.2.10
+
+06-04-2019 11:43:03	<I>: 	PHP Min Version is:php7.1.20
+
+06-04-2019 11:43:03	<I>: 	PHP Max Version is:php7.2.10
+
+06-04-2019 11:43:03	<I>: 	Initilizing UI Settings from conf files.
+
+06-04-2019 11:43:03	<I>: 	Apache port for MAMP:80
+
+06-04-2019 11:43:03	<I>: 	MySQL port for MAMP:3306
+
+06-04-2019 11:43:03	<I>: 	Nginx port for MAMP from configuration file:80
+
+06-04-2019 11:43:03	<I>: 	Initialize cloud option active.
+
+06-04-2019 11:43:03	<I>: 	Initialize cloud database.
+
+06-04-2019 11:43:03	<I>: 	Initialize cloud IsCloudEncrypted.
+
+06-04-2019 11:43:03	<I>: 	Initialize cloud enc key.
+
+06-04-2019 11:43:03	<I>: 	Initialize cloud IsCloudKeyOnDesktop.
+
+06-04-2019 11:43:03	<I>: 	Initialize MyWebLink.
+
+06-04-2019 11:43:03	<I>: 	Initialize CloudFileRev.
+
+06-04-2019 11:43:03	<I>: 	webServer port is: 80
+
+06-04-2019 11:43:03	<I>: 	Doc root:C:\MAMP\htdocs
+
+06-04-2019 11:43:03	<I>: 	Apache port:80
+
+06-04-2019 11:43:03	<I>: 	Mysql port is:3306
+
+06-04-2019 11:43:03	<I>: 	Finished Initilizing UI Settings.
+
+06-04-2019 11:43:04	<I>: 	MySQL bin version: 5.7.24.0
+
+06-04-2019 11:43:04	<I>: 	Checking file access rights:LAPTOP-DBJ59LPV\Varun
+
+06-04-2019 11:43:04	<I>: 	MAMP detected that it needs to set file access rights for at least one file.
+
+06-04-2019 11:43:04	<I>: 	Setting access rights:C:\MAMP\logs
+
+06-04-2019 11:43:04	<E>: 	Could not set access rights on folder: C:\MAMP\logs
+
+06-04-2019 11:43:06	<I>: 	Checking ports.
+
+06-04-2019 11:43:06	<I>: 	Start when MAMP start check.
+
+06-04-2019 11:43:06	<I>: 	Set data to data context.
+
+06-04-2019 11:43:06	<I>: 	ShowLoadingIndicatorUI
+
+06-04-2019 11:43:06	<I>: 	Starting MAMP server processes.
+
+06-04-2019 11:43:06	<I>: 	Init registry.
+
+06-04-2019 11:43:06	<I>: 	Finished Init registry.
+
+06-04-2019 11:43:06	<I>: 	Finished initilizing UI interface data.
+
+06-04-2019 11:43:06	<I>: 	Enabled Preferences button.
+
+06-04-2019 11:43:06	<I>: 	Trying to start logging events for Windows events generated by MAMP PRO servers.
+
+06-04-2019 11:43:06	<I>: 	Started logging events form Windows Application events generated  by MAMP PRO servers.
+
+06-04-2019 11:43:06	<I>: 	Starting checking VC rutime versions.
+
+06-04-2019 11:43:06	<I>: 	Finished main app initialization.
+
+06-04-2019 11:43:06	<I>: 	WebServer or mysql are not active, checking ports.
+
+06-04-2019 11:43:06	<I>: 	Downloading banner metadata from : http://apps.mamp.info/Win/MAMP/banner/4.1/banner.json
+
+06-04-2019 11:43:06	<I>: 	Ports ok.
+
+06-04-2019 11:43:06	<I>: 	Starting all processes.
+
+06-04-2019 11:43:06	<I>: 	Executed checking VC versions was success.
+
+06-04-2019 11:43:06	<I>: 	VC2008 runtime:True
+
+06-04-2019 11:43:06	<I>: 	VC2010 runtime:True
+
+06-04-2019 11:43:06	<I>: 	VC2012 runtime:True
+
+06-04-2019 11:43:06	<I>: 	VC2015 runtime:True
+
+06-04-2019 11:43:07	<I>: 	VC runtimes tests were ok.
+
+06-04-2019 11:43:08	<I>: 	Downloading image banner.
+
+06-04-2019 11:43:08	<I>: 	Image banner url:https://apps.mamp.info/Win/MAMP/banner/4.0/bannerCurrent_en.png
+
+06-04-2019 11:43:09	<I>: 	Decoding image from byte array.
+
+06-04-2019 11:43:14	<I>: 	Finished starting all processes.
+
+06-04-2019 16:59:17	<F>: 	Closing MAMP application.
+
+07-04-2019 17:30:46	<I>: 	ProcessName: MAMP
+
+07-04-2019 17:30:46	<I>: 	Only one instance of MAMP is running.
+
+07-04-2019 17:30:46	<I>: 	Checking MAMP PRO.
+
+07-04-2019 17:30:46	<I>: 	Done reading app setting.
+
+07-04-2019 17:30:46	<I>: 	Opening MAMP control panel.
+
+07-04-2019 17:30:48	<I>: 	Starting MAMP
+
+07-04-2019 17:30:48	<I>: 	MAMP Build version: 4.1.0.23876
+
+07-04-2019 17:30:48	<I>: 	MAMP x86 release binaries.
+
+07-04-2019 17:30:48	<I>: 	
+
+07-04-2019 17:30:48	<I>: 	Operation System:  Microsoft Windows NT 6.2.9200.0
+
+07-04-2019 17:30:48	<I>: 	ProcessorCount:  8
+
+07-04-2019 17:30:48	<I>: 	64Bit OS:  Yes
+
+07-04-2019 17:30:48	<I>: 	Region:  India
+
+07-04-2019 17:30:48	<I>: 	Region DisplayName:  India
+
+07-04-2019 17:30:48	<I>: 	TwoLetterISORegionName:  IN
+
+07-04-2019 17:30:48	<I>: 	ThreeLetterISORegionName:  IND
+
+07-04-2019 17:30:48	<I>: 	System Page Size:  4096
+
+07-04-2019 17:30:48	<I>: 	SystemDirectory:  C:\WINDOWS\system32
+
+07-04-2019 17:30:48	<I>: 	UserDomainName:  LAPTOP-DBJ59LPV
+
+07-04-2019 17:30:48	<I>: 	UserName: Varun
+
+07-04-2019 17:30:48	<I>: 		 Drive: C:\
+
+07-04-2019 17:30:48	<I>: 			 VolumeLabel: Windows
+
+07-04-2019 17:30:48	<I>: 			 DriveType: Fixed
+
+07-04-2019 17:30:48	<I>: 			 DriveFormat: NTFS
+
+07-04-2019 17:30:48	<I>: 			 TotalSize: 247827787776
+
+07-04-2019 17:30:48	<I>: 			 AvailableFreeSpace: 94346280960
+
+07-04-2019 17:30:48	<I>: 		 Drive: D:\
+
+07-04-2019 17:30:48	<I>: 			 VolumeLabel: RECOVERY
+
+07-04-2019 17:30:48	<I>: 			 DriveType: Fixed
+
+07-04-2019 17:30:48	<I>: 			 DriveFormat: NTFS
+
+07-04-2019 17:30:48	<I>: 			 TotalSize: 14543745024
+
+07-04-2019 17:30:48	<I>: 			 AvailableFreeSpace: 1517465600
+
+07-04-2019 17:30:48	<I>: 		 Drive: F:\
+
+07-04-2019 17:30:48	<I>: 			 VolumeLabel: Songssssss
+
+07-04-2019 17:30:48	<I>: 			 DriveType: Fixed
+
+07-04-2019 17:30:48	<I>: 			 DriveFormat: NTFS
+
+07-04-2019 17:30:48	<I>: 			 TotalSize: 245774675968
+
+07-04-2019 17:30:48	<I>: 			 AvailableFreeSpace: 89404043264
+
+07-04-2019 17:30:48	<I>: 		 Drive: G:\
+
+07-04-2019 17:30:48	<I>: 			 VolumeLabel: Games
+
+07-04-2019 17:30:48	<I>: 			 DriveType: Fixed
+
+07-04-2019 17:30:48	<I>: 			 DriveFormat: NTFS
+
+07-04-2019 17:30:48	<I>: 			 TotalSize: 490732515328
+
+07-04-2019 17:30:48	<I>: 			 AvailableFreeSpace: 352834760704
+
+07-04-2019 17:30:48	<I>: 	
+
+07-04-2019 17:30:49	<I>: 	Checking configuration files variables.
+
+07-04-2019 17:30:49	<I>: 	Base MAMP path is: C:\MAMP\
+
+07-04-2019 17:30:49	<I>: 	Server root is: 'C:\MAMP\bin\apache'
+
+07-04-2019 17:30:49	<I>: 	Checking if current php version is valid.
+
+07-04-2019 17:30:49	<I>: 	Now checking if current PHP Version is max or min php version:php7.2.10
+
+07-04-2019 17:30:49	<I>: 	PHP Min Version is:php7.1.20
+
+07-04-2019 17:30:49	<I>: 	PHP Max Version is:php7.2.10
+
+07-04-2019 17:30:50	<I>: 	Initilizing UI Settings from conf files.
+
+07-04-2019 17:30:50	<I>: 	Apache port for MAMP:80
+
+07-04-2019 17:30:50	<I>: 	MySQL port for MAMP:3306
+
+07-04-2019 17:30:50	<I>: 	Nginx port for MAMP from configuration file:80
+
+07-04-2019 17:30:50	<I>: 	Initialize cloud option active.
+
+07-04-2019 17:30:50	<I>: 	Initialize cloud database.
+
+07-04-2019 17:30:50	<I>: 	Initialize cloud IsCloudEncrypted.
+
+07-04-2019 17:30:50	<I>: 	Initialize cloud enc key.
+
+07-04-2019 17:30:50	<I>: 	Initialize cloud IsCloudKeyOnDesktop.
+
+07-04-2019 17:30:50	<I>: 	Initialize MyWebLink.
+
+07-04-2019 17:30:50	<I>: 	Initialize CloudFileRev.
+
+07-04-2019 17:30:50	<I>: 	webServer port is: 80
+
+07-04-2019 17:30:50	<I>: 	Doc root:C:\MAMP\htdocs
+
+07-04-2019 17:30:50	<I>: 	Apache port:80
+
+07-04-2019 17:30:50	<I>: 	Mysql port is:3306
+
+07-04-2019 17:30:50	<I>: 	Finished Initilizing UI Settings.
+
+07-04-2019 17:30:51	<I>: 	MySQL bin version: 5.7.24.0
+
+07-04-2019 17:30:51	<I>: 	Checking file access rights:LAPTOP-DBJ59LPV\Varun
+
+07-04-2019 17:30:51	<I>: 	MAMP detected that it needs to set file access rights for at least one file.
+
+07-04-2019 17:30:51	<I>: 	Setting access rights:C:\MAMP\logs
+
+07-04-2019 17:30:51	<E>: 	Could not set access rights on folder: C:\MAMP\logs
+
+07-04-2019 17:30:51	<I>: 	Checking ports.
+
+07-04-2019 17:30:51	<I>: 	Start when MAMP start check.
+
+07-04-2019 17:30:51	<I>: 	Set data to data context.
+
+07-04-2019 17:30:51	<I>: 	ShowLoadingIndicatorUI
+
+07-04-2019 17:30:51	<I>: 	Starting MAMP server processes.
+
+07-04-2019 17:30:51	<I>: 	Init registry.
+
+07-04-2019 17:30:51	<I>: 	Finished Init registry.
+
+07-04-2019 17:30:51	<I>: 	Finished initilizing UI interface data.
+
+07-04-2019 17:30:51	<I>: 	Enabled Preferences button.
+
+07-04-2019 17:30:51	<I>: 	Trying to start logging events for Windows events generated by MAMP PRO servers.
+
+07-04-2019 17:30:51	<I>: 	Started logging events form Windows Application events generated  by MAMP PRO servers.
+
+07-04-2019 17:30:51	<I>: 	Starting checking VC rutime versions.
+
+07-04-2019 17:30:51	<I>: 	Finished main app initialization.
+
+07-04-2019 17:30:51	<I>: 	WebServer or mysql are not active, checking ports.
+
+07-04-2019 17:30:51	<I>: 	Ports ok.
+
+07-04-2019 17:30:51	<I>: 	Starting all processes.
+
+07-04-2019 17:30:51	<I>: 	Downloading banner metadata from : http://apps.mamp.info/Win/MAMP/banner/4.1/banner.json
+
+07-04-2019 17:30:51	<I>: 	Executed checking VC versions was success.
+
+07-04-2019 17:30:51	<I>: 	VC2008 runtime:True
+
+07-04-2019 17:30:51	<I>: 	VC2010 runtime:True
+
+07-04-2019 17:30:51	<I>: 	VC2012 runtime:True
+
+07-04-2019 17:30:51	<I>: 	VC2015 runtime:True
+
+07-04-2019 17:30:51	<I>: 	VC runtimes tests were ok.
+
+07-04-2019 17:30:53	<I>: 	Downloading image banner.
+
+07-04-2019 17:30:53	<I>: 	Image banner url:https://apps.mamp.info/Win/MAMP/banner/4.0/bannerCurrent_en.png
+
+07-04-2019 17:30:55	<I>: 	Decoding image from byte array.
+
+07-04-2019 17:30:58	<I>: 	Finished starting all processes.
+
+07-04-2019 17:49:21	<F>: 	Closing MAMP application.
+
+07-04-2019 19:50:32	<I>: 	ProcessName: MAMP
+
+07-04-2019 19:50:32	<I>: 	Only one instance of MAMP is running.
+
+07-04-2019 19:50:32	<I>: 	Checking MAMP PRO.
+
+07-04-2019 19:50:33	<I>: 	Done reading app setting.
+
+07-04-2019 19:50:33	<I>: 	Opening MAMP control panel.
+
+07-04-2019 19:50:33	<I>: 	Starting MAMP
+
+07-04-2019 19:50:33	<I>: 	MAMP Build version: 4.1.0.23876
+
+07-04-2019 19:50:33	<I>: 	MAMP x86 release binaries.
+
+07-04-2019 19:50:33	<I>: 	
+
+07-04-2019 19:50:33	<I>: 	Operation System:  Microsoft Windows NT 6.2.9200.0
+
+07-04-2019 19:50:33	<I>: 	ProcessorCount:  8
+
+07-04-2019 19:50:33	<I>: 	64Bit OS:  Yes
+
+07-04-2019 19:50:33	<I>: 	Region:  India
+
+07-04-2019 19:50:33	<I>: 	Region DisplayName:  India
+
+07-04-2019 19:50:33	<I>: 	TwoLetterISORegionName:  IN
+
+07-04-2019 19:50:33	<I>: 	ThreeLetterISORegionName:  IND
+
+07-04-2019 19:50:33	<I>: 	System Page Size:  4096
+
+07-04-2019 19:50:33	<I>: 	SystemDirectory:  C:\WINDOWS\system32
+
+07-04-2019 19:50:33	<I>: 	UserDomainName:  LAPTOP-DBJ59LPV
+
+07-04-2019 19:50:33	<I>: 	UserName: Varun
+
+07-04-2019 19:50:33	<I>: 		 Drive: C:\
+
+07-04-2019 19:50:33	<I>: 			 VolumeLabel: Windows
+
+07-04-2019 19:50:33	<I>: 			 DriveType: Fixed
+
+07-04-2019 19:50:33	<I>: 			 DriveFormat: NTFS
+
+07-04-2019 19:50:33	<I>: 			 TotalSize: 247827787776
+
+07-04-2019 19:50:33	<I>: 			 AvailableFreeSpace: 93997248512
+
+07-04-2019 19:50:33	<I>: 		 Drive: D:\
+
+07-04-2019 19:50:33	<I>: 			 VolumeLabel: RECOVERY
+
+07-04-2019 19:50:33	<I>: 			 DriveType: Fixed
+
+07-04-2019 19:50:33	<I>: 			 DriveFormat: NTFS
+
+07-04-2019 19:50:33	<I>: 			 TotalSize: 14543745024
+
+07-04-2019 19:50:33	<I>: 			 AvailableFreeSpace: 1517465600
+
+07-04-2019 19:50:33	<I>: 		 Drive: F:\
+
+07-04-2019 19:50:33	<I>: 			 VolumeLabel: Songssssss
+
+07-04-2019 19:50:33	<I>: 			 DriveType: Fixed
+
+07-04-2019 19:50:33	<I>: 			 DriveFormat: NTFS
+
+07-04-2019 19:50:33	<I>: 			 TotalSize: 245774675968
+
+07-04-2019 19:50:33	<I>: 			 AvailableFreeSpace: 89404043264
+
+07-04-2019 19:50:33	<I>: 		 Drive: G:\
+
+07-04-2019 19:50:33	<I>: 			 VolumeLabel: Games
+
+07-04-2019 19:50:33	<I>: 			 DriveType: Fixed
+
+07-04-2019 19:50:33	<I>: 			 DriveFormat: NTFS
+
+07-04-2019 19:50:33	<I>: 			 TotalSize: 490732515328
+
+07-04-2019 19:50:33	<I>: 			 AvailableFreeSpace: 352817098752
+
+07-04-2019 19:50:33	<I>: 	
+
+07-04-2019 19:50:33	<I>: 	Checking configuration files variables.
+
+07-04-2019 19:50:33	<I>: 	Base MAMP path is: C:\MAMP\
+
+07-04-2019 19:50:33	<I>: 	Server root is: 'C:\MAMP\bin\apache'
+
+07-04-2019 19:50:33	<I>: 	Checking if current php version is valid.
+
+07-04-2019 19:50:33	<I>: 	Now checking if current PHP Version is max or min php version:php7.2.10
+
+07-04-2019 19:50:33	<I>: 	PHP Min Version is:php7.1.20
+
+07-04-2019 19:50:33	<I>: 	PHP Max Version is:php7.2.10
+
+07-04-2019 19:50:33	<I>: 	Initilizing UI Settings from conf files.
+
+07-04-2019 19:50:34	<I>: 	Apache port for MAMP:80
+
+07-04-2019 19:50:34	<I>: 	MySQL port for MAMP:3306
+
+07-04-2019 19:50:34	<I>: 	Nginx port for MAMP from configuration file:80
+
+07-04-2019 19:50:34	<I>: 	Initialize cloud option active.
+
+07-04-2019 19:50:34	<I>: 	Initialize cloud database.
+
+07-04-2019 19:50:34	<I>: 	Initialize cloud IsCloudEncrypted.
+
+07-04-2019 19:50:34	<I>: 	Initialize cloud enc key.
+
+07-04-2019 19:50:34	<I>: 	Initialize cloud IsCloudKeyOnDesktop.
+
+07-04-2019 19:50:34	<I>: 	Initialize MyWebLink.
+
+07-04-2019 19:50:34	<I>: 	Initialize CloudFileRev.
+
+07-04-2019 19:50:34	<I>: 	webServer port is: 80
+
+07-04-2019 19:50:34	<I>: 	Doc root:C:\MAMP\htdocs
+
+07-04-2019 19:50:34	<I>: 	Apache port:80
+
+07-04-2019 19:50:34	<I>: 	Mysql port is:3306
+
+07-04-2019 19:50:34	<I>: 	Finished Initilizing UI Settings.
+
+07-04-2019 19:50:34	<I>: 	MySQL bin version: 5.7.24.0
+
+07-04-2019 19:50:34	<I>: 	Checking file access rights:LAPTOP-DBJ59LPV\Varun
+
+07-04-2019 19:50:34	<I>: 	MAMP detected that it needs to set file access rights for at least one file.
+
+07-04-2019 19:50:34	<I>: 	Setting access rights:C:\MAMP\logs
+
+07-04-2019 19:50:34	<E>: 	Could not set access rights on folder: C:\MAMP\logs
+
+07-04-2019 19:50:34	<I>: 	Checking ports.
+
+07-04-2019 19:50:34	<I>: 	Start when MAMP start check.
+
+07-04-2019 19:50:34	<I>: 	Set data to data context.
+
+07-04-2019 19:50:34	<I>: 	ShowLoadingIndicatorUI
+
+07-04-2019 19:50:34	<I>: 	Starting MAMP server processes.
+
+07-04-2019 19:50:34	<I>: 	Init registry.
+
+07-04-2019 19:50:34	<I>: 	Finished Init registry.
+
+07-04-2019 19:50:34	<I>: 	Finished initilizing UI interface data.
+
+07-04-2019 19:50:34	<I>: 	Enabled Preferences button.
+
+07-04-2019 19:50:34	<I>: 	Trying to start logging events for Windows events generated by MAMP PRO servers.
+
+07-04-2019 19:50:34	<I>: 	Started logging events form Windows Application events generated  by MAMP PRO servers.
+
+07-04-2019 19:50:34	<I>: 	Starting checking VC rutime versions.
+
+07-04-2019 19:50:34	<I>: 	Finished main app initialization.
+
+07-04-2019 19:50:34	<I>: 	Downloading banner metadata from : http://apps.mamp.info/Win/MAMP/banner/4.1/banner.json
+
+07-04-2019 19:50:34	<I>: 	WebServer or mysql are not active, checking ports.
+
+07-04-2019 19:50:34	<I>: 	Ports ok.
+
+07-04-2019 19:50:34	<I>: 	Starting all processes.
+
+07-04-2019 19:50:35	<I>: 	Downloading image banner.
+
+07-04-2019 19:50:35	<I>: 	Image banner url:https://apps.mamp.info/Win/MAMP/banner/4.0/bannerCurrent_en.png
+
+07-04-2019 19:50:35	<I>: 	Executed checking VC versions was success.
+
+07-04-2019 19:50:35	<I>: 	VC2008 runtime:True
+
+07-04-2019 19:50:35	<I>: 	VC2010 runtime:True
+
+07-04-2019 19:50:35	<I>: 	VC2012 runtime:True
+
+07-04-2019 19:50:35	<I>: 	VC2015 runtime:True
+
+07-04-2019 19:50:36	<I>: 	Decoding image from byte array.
+
+07-04-2019 19:50:36	<I>: 	VC runtimes tests were ok.
+
+07-04-2019 19:50:38	<F>: 	Closing MAMP application.
+
+07-04-2019 19:50:38	<I>: 	Finished starting all processes.
+
+07-04-2019 19:50:39	<I>: 	ProcessName: MAMP
+
+07-04-2019 19:50:39	<I>: 	Only one instance of MAMP is running.
+
+07-04-2019 19:50:39	<I>: 	Checking MAMP PRO.
+
+07-04-2019 19:50:39	<I>: 	Done reading app setting.
+
+07-04-2019 19:50:39	<I>: 	Opening MAMP control panel.
+
+07-04-2019 19:50:40	<I>: 	Starting MAMP
+
+07-04-2019 19:50:40	<I>: 	MAMP Build version: 4.1.0.23876
+
+07-04-2019 19:50:40	<I>: 	MAMP x86 release binaries.
+
+07-04-2019 19:50:40	<I>: 	
+
+07-04-2019 19:50:40	<I>: 	Operation System:  Microsoft Windows NT 6.2.9200.0
+
+07-04-2019 19:50:40	<I>: 	ProcessorCount:  8
+
+07-04-2019 19:50:40	<I>: 	64Bit OS:  Yes
+
+07-04-2019 19:50:40	<I>: 	Region:  India
+
+07-04-2019 19:50:40	<I>: 	Region DisplayName:  India
+
+07-04-2019 19:50:40	<I>: 	TwoLetterISORegionName:  IN
+
+07-04-2019 19:50:40	<I>: 	ThreeLetterISORegionName:  IND
+
+07-04-2019 19:50:40	<I>: 	System Page Size:  4096
+
+07-04-2019 19:50:40	<I>: 	SystemDirectory:  C:\WINDOWS\system32
+
+07-04-2019 19:50:40	<I>: 	UserDomainName:  LAPTOP-DBJ59LPV
+
+07-04-2019 19:50:40	<I>: 	UserName: Varun
+
+07-04-2019 19:50:40	<I>: 		 Drive: C:\
+
+07-04-2019 19:50:40	<I>: 			 VolumeLabel: Windows
+
+07-04-2019 19:50:40	<I>: 			 DriveType: Fixed
+
+07-04-2019 19:50:40	<I>: 			 DriveFormat: NTFS
+
+07-04-2019 19:50:40	<I>: 			 TotalSize: 247827787776
+
+07-04-2019 19:50:40	<I>: 			 AvailableFreeSpace: 93981294592
+
+07-04-2019 19:50:40	<I>: 		 Drive: D:\
+
+07-04-2019 19:50:40	<I>: 			 VolumeLabel: RECOVERY
+
+07-04-2019 19:50:40	<I>: 			 DriveType: Fixed
+
+07-04-2019 19:50:40	<I>: 			 DriveFormat: NTFS
+
+07-04-2019 19:50:40	<I>: 			 TotalSize: 14543745024
+
+07-04-2019 19:50:40	<I>: 			 AvailableFreeSpace: 1517465600
+
+07-04-2019 19:50:40	<I>: 		 Drive: F:\
+
+07-04-2019 19:50:40	<I>: 			 VolumeLabel: Songssssss
+
+07-04-2019 19:50:40	<I>: 			 DriveType: Fixed
+
+07-04-2019 19:50:40	<I>: 			 DriveFormat: NTFS
+
+07-04-2019 19:50:40	<I>: 			 TotalSize: 245774675968
+
+07-04-2019 19:50:40	<I>: 			 AvailableFreeSpace: 89404043264
+
+07-04-2019 19:50:40	<I>: 		 Drive: G:\
+
+07-04-2019 19:50:40	<I>: 			 VolumeLabel: Games
+
+07-04-2019 19:50:40	<I>: 			 DriveType: Fixed
+
+07-04-2019 19:50:40	<I>: 			 DriveFormat: NTFS
+
+07-04-2019 19:50:40	<I>: 			 TotalSize: 490732515328
+
+07-04-2019 19:50:40	<I>: 			 AvailableFreeSpace: 352817098752
+
+07-04-2019 19:50:40	<I>: 	
+
+07-04-2019 19:50:40	<I>: 	Checking configuration files variables.
+
+07-04-2019 19:50:40	<I>: 	Base MAMP path is: C:\MAMP\
+
+07-04-2019 19:50:40	<I>: 	Server root is: 'C:\MAMP\bin\apache'
+
+07-04-2019 19:50:40	<I>: 	Checking if current php version is valid.
+
+07-04-2019 19:50:40	<I>: 	Now checking if current PHP Version is max or min php version:php7.2.10
+
+07-04-2019 19:50:40	<I>: 	PHP Min Version is:php7.1.20
+
+07-04-2019 19:50:40	<I>: 	PHP Max Version is:php7.2.10
+
+07-04-2019 19:50:40	<I>: 	Initilizing UI Settings from conf files.
+
+07-04-2019 19:50:40	<I>: 	Apache port for MAMP:80
+
+07-04-2019 19:50:40	<I>: 	MySQL port for MAMP:3306
+
+07-04-2019 19:50:40	<I>: 	Nginx port for MAMP from configuration file:80
+
+07-04-2019 19:50:41	<I>: 	Initialize cloud option active.
+
+07-04-2019 19:50:41	<I>: 	Initialize cloud database.
+
+07-04-2019 19:50:41	<I>: 	Initialize cloud IsCloudEncrypted.
+
+07-04-2019 19:50:41	<I>: 	Initialize cloud enc key.
+
+07-04-2019 19:50:41	<I>: 	Initialize cloud IsCloudKeyOnDesktop.
+
+07-04-2019 19:50:41	<I>: 	Initialize MyWebLink.
+
+07-04-2019 19:50:41	<I>: 	Initialize CloudFileRev.
+
+07-04-2019 19:50:41	<I>: 	webServer port is: 80
+
+07-04-2019 19:50:41	<I>: 	Doc root:C:\MAMP\htdocs
+
+07-04-2019 19:50:41	<I>: 	Apache port:80
+
+07-04-2019 19:50:41	<I>: 	Mysql port is:3306
+
+07-04-2019 19:50:41	<I>: 	Finished Initilizing UI Settings.
+
+07-04-2019 19:50:41	<I>: 	MySQL bin version: 5.7.24.0
+
+07-04-2019 19:50:41	<I>: 	Checking file access rights:LAPTOP-DBJ59LPV\Varun
+
+07-04-2019 19:50:41	<I>: 	MAMP detected that it needs to set file access rights for at least one file.
+
+07-04-2019 19:50:41	<I>: 	Setting access rights:C:\MAMP\logs
+
+07-04-2019 19:50:41	<E>: 	Could not set access rights on folder: C:\MAMP\logs
+
+07-04-2019 19:50:41	<I>: 	Checking ports.
+
+07-04-2019 19:50:41	<I>: 	Start when MAMP start check.
+
+07-04-2019 19:50:41	<I>: 	Set data to data context.
+
+07-04-2019 19:50:41	<I>: 	ShowLoadingIndicatorUI
+
+07-04-2019 19:50:41	<I>: 	Starting MAMP server processes.
+
+07-04-2019 19:50:41	<I>: 	Init registry.
+
+07-04-2019 19:50:41	<I>: 	Finished Init registry.
+
+07-04-2019 19:50:41	<I>: 	Finished initilizing UI interface data.
+
+07-04-2019 19:50:41	<I>: 	Enabled Preferences button.
+
+07-04-2019 19:50:41	<I>: 	Trying to start logging events for Windows events generated by MAMP PRO servers.
+
+07-04-2019 19:50:41	<I>: 	Started logging events form Windows Application events generated  by MAMP PRO servers.
+
+07-04-2019 19:50:41	<I>: 	Starting checking VC rutime versions.
+
+07-04-2019 19:50:41	<I>: 	Finished main app initialization.
+
+07-04-2019 19:50:41	<I>: 	Downloading banner metadata from : http://apps.mamp.info/Win/MAMP/banner/4.1/banner.json
+
+07-04-2019 19:50:41	<I>: 	WebServer or mysql are not active, checking ports.
+
+07-04-2019 19:50:41	<E>: 	Port is already used! Blocked app is: apache and port: 80
+
+07-04-2019 19:50:41	<I>: 	Executed checking VC versions was success.
+
+07-04-2019 19:50:41	<I>: 	VC2008 runtime:True
+
+07-04-2019 19:50:41	<I>: 	VC2010 runtime:True
+
+07-04-2019 19:50:41	<I>: 	VC2012 runtime:True
+
+07-04-2019 19:50:41	<I>: 	VC2015 runtime:True
+
+07-04-2019 19:50:41	<I>: 	VC runtimes tests were ok.
+
+07-04-2019 19:50:42	<I>: 	Downloading image banner.
+
+07-04-2019 19:50:42	<I>: 	Image banner url:https://apps.mamp.info/Win/MAMP/banner/4.0/bannerCurrent_en.png
+
+07-04-2019 19:50:43	<I>: 	Decoding image from byte array.
+
+07-04-2019 19:55:01	<F>: 	Closing MAMP application.
+
+07-04-2019 21:51:53	<I>: 	ProcessName: MAMP
+
+07-04-2019 21:51:53	<I>: 	Only one instance of MAMP is running.
+
+07-04-2019 21:51:53	<I>: 	Checking MAMP PRO.
+
+07-04-2019 21:51:53	<I>: 	Done reading app setting.
+
+07-04-2019 21:51:53	<I>: 	Opening MAMP control panel.
+
+07-04-2019 21:51:53	<I>: 	Starting MAMP
+
+07-04-2019 21:51:53	<I>: 	MAMP Build version: 4.1.0.23876
+
+07-04-2019 21:51:53	<I>: 	MAMP x86 release binaries.
+
+07-04-2019 21:51:53	<I>: 	
+
+07-04-2019 21:51:53	<I>: 	Operation System:  Microsoft Windows NT 6.2.9200.0
+
+07-04-2019 21:51:53	<I>: 	ProcessorCount:  8
+
+07-04-2019 21:51:53	<I>: 	64Bit OS:  Yes
+
+07-04-2019 21:51:53	<I>: 	Region:  India
+
+07-04-2019 21:51:53	<I>: 	Region DisplayName:  India
+
+07-04-2019 21:51:53	<I>: 	TwoLetterISORegionName:  IN
+
+07-04-2019 21:51:53	<I>: 	ThreeLetterISORegionName:  IND
+
+07-04-2019 21:51:53	<I>: 	System Page Size:  4096
+
+07-04-2019 21:51:53	<I>: 	SystemDirectory:  C:\WINDOWS\system32
+
+07-04-2019 21:51:53	<I>: 	UserDomainName:  LAPTOP-DBJ59LPV
+
+07-04-2019 21:51:53	<I>: 	UserName: Varun
+
+07-04-2019 21:51:53	<I>: 		 Drive: C:\
+
+07-04-2019 21:51:53	<I>: 			 VolumeLabel: Windows
+
+07-04-2019 21:51:53	<I>: 			 DriveType: Fixed
+
+07-04-2019 21:51:53	<I>: 			 DriveFormat: NTFS
+
+07-04-2019 21:51:53	<I>: 			 TotalSize: 247827787776
+
+07-04-2019 21:51:53	<I>: 			 AvailableFreeSpace: 93975683072
+
+07-04-2019 21:51:53	<I>: 		 Drive: D:\
+
+07-04-2019 21:51:53	<I>: 			 VolumeLabel: RECOVERY
+
+07-04-2019 21:51:53	<I>: 			 DriveType: Fixed
+
+07-04-2019 21:51:53	<I>: 			 DriveFormat: NTFS
+
+07-04-2019 21:51:53	<I>: 			 TotalSize: 14543745024
+
+07-04-2019 21:51:53	<I>: 			 AvailableFreeSpace: 1517465600
+
+07-04-2019 21:51:53	<I>: 		 Drive: F:\
+
+07-04-2019 21:51:53	<I>: 			 VolumeLabel: Songssssss
+
+07-04-2019 21:51:53	<I>: 			 DriveType: Fixed
+
+07-04-2019 21:51:53	<I>: 			 DriveFormat: NTFS
+
+07-04-2019 21:51:53	<I>: 			 TotalSize: 245774675968
+
+07-04-2019 21:51:53	<I>: 			 AvailableFreeSpace: 89404043264
+
+07-04-2019 21:51:53	<I>: 		 Drive: G:\
+
+07-04-2019 21:51:53	<I>: 			 VolumeLabel: Games
+
+07-04-2019 21:51:53	<I>: 			 DriveType: Fixed
+
+07-04-2019 21:51:53	<I>: 			 DriveFormat: NTFS
+
+07-04-2019 21:51:53	<I>: 			 TotalSize: 490732515328
+
+07-04-2019 21:51:53	<I>: 			 AvailableFreeSpace: 352815935488
+
+07-04-2019 21:51:53	<I>: 	
+
+07-04-2019 21:51:54	<I>: 	Checking configuration files variables.
+
+07-04-2019 21:51:54	<I>: 	Base MAMP path is: C:\MAMP\
+
+07-04-2019 21:51:54	<I>: 	Server root is: 'C:\MAMP\bin\apache'
+
+07-04-2019 21:51:54	<I>: 	Checking if current php version is valid.
+
+07-04-2019 21:51:54	<I>: 	Now checking if current PHP Version is max or min php version:php7.2.10
+
+07-04-2019 21:51:54	<I>: 	PHP Min Version is:php7.1.20
+
+07-04-2019 21:51:54	<I>: 	PHP Max Version is:php7.2.10
+
+07-04-2019 21:51:54	<I>: 	Initilizing UI Settings from conf files.
+
+07-04-2019 21:51:54	<I>: 	Apache port for MAMP:80
+
+07-04-2019 21:51:54	<I>: 	MySQL port for MAMP:3306
+
+07-04-2019 21:51:54	<I>: 	Nginx port for MAMP from configuration file:80
+
+07-04-2019 21:51:54	<I>: 	Initialize cloud option active.
+
+07-04-2019 21:51:54	<I>: 	Initialize cloud database.
+
+07-04-2019 21:51:54	<I>: 	Initialize cloud IsCloudEncrypted.
+
+07-04-2019 21:51:54	<I>: 	Initialize cloud enc key.
+
+07-04-2019 21:51:54	<I>: 	Initialize cloud IsCloudKeyOnDesktop.
+
+07-04-2019 21:51:54	<I>: 	Initialize MyWebLink.
+
+07-04-2019 21:51:54	<I>: 	Initialize CloudFileRev.
+
+07-04-2019 21:51:54	<I>: 	webServer port is: 80
+
+07-04-2019 21:51:54	<I>: 	Doc root:C:\MAMP\htdocs
+
+07-04-2019 21:51:54	<I>: 	Apache port:80
+
+07-04-2019 21:51:54	<I>: 	Mysql port is:3306
+
+07-04-2019 21:51:54	<I>: 	Finished Initilizing UI Settings.
+
+07-04-2019 21:51:54	<I>: 	MySQL bin version: 5.7.24.0
+
+07-04-2019 21:51:54	<I>: 	Checking file access rights:LAPTOP-DBJ59LPV\Varun
+
+07-04-2019 21:51:54	<I>: 	MAMP detected that it needs to set file access rights for at least one file.
+
+07-04-2019 21:51:54	<I>: 	Setting access rights:C:\MAMP\logs
+
+07-04-2019 21:51:54	<E>: 	Could not set access rights on folder: C:\MAMP\logs
+
+07-04-2019 21:51:54	<I>: 	Checking ports.
+
+07-04-2019 21:51:54	<I>: 	Start when MAMP start check.
+
+07-04-2019 21:51:54	<I>: 	Set data to data context.
+
+07-04-2019 21:51:54	<I>: 	ShowLoadingIndicatorUI
+
+07-04-2019 21:51:54	<I>: 	Starting MAMP server processes.
+
+07-04-2019 21:51:54	<I>: 	Init registry.
+
+07-04-2019 21:51:54	<I>: 	Finished Init registry.
+
+07-04-2019 21:51:54	<I>: 	Finished initilizing UI interface data.
+
+07-04-2019 21:51:54	<I>: 	Enabled Preferences button.
+
+07-04-2019 21:51:54	<I>: 	Trying to start logging events for Windows events generated by MAMP PRO servers.
+
+07-04-2019 21:51:54	<I>: 	Started logging events form Windows Application events generated  by MAMP PRO servers.
+
+07-04-2019 21:51:54	<I>: 	Starting checking VC rutime versions.
+
+07-04-2019 21:51:54	<I>: 	Finished main app initialization.
+
+07-04-2019 21:51:54	<I>: 	Downloading banner metadata from : http://apps.mamp.info/Win/MAMP/banner/4.1/banner.json
+
+07-04-2019 21:51:54	<I>: 	WebServer or mysql are not active, checking ports.
+
+07-04-2019 21:51:54	<E>: 	Port is already used! Blocked app is: apache and port: 80
+
+07-04-2019 21:51:55	<I>: 	Executed checking VC versions was success.
+
+07-04-2019 21:51:55	<I>: 	VC2008 runtime:True
+
+07-04-2019 21:51:55	<I>: 	VC2010 runtime:True
+
+07-04-2019 21:51:55	<I>: 	VC2012 runtime:True
+
+07-04-2019 21:51:55	<I>: 	VC2015 runtime:True
+
+07-04-2019 21:51:55	<I>: 	VC runtimes tests were ok.
+
+07-04-2019 21:51:55	<I>: 	Downloading image banner.
+
+07-04-2019 21:51:55	<I>: 	Image banner url:https://apps.mamp.info/Win/MAMP/banner/4.0/bannerCurrent_en.png
+
+07-04-2019 21:51:57	<I>: 	Decoding image from byte array.
+
+07-04-2019 21:52:12	<F>: 	Closing MAMP application.
+
